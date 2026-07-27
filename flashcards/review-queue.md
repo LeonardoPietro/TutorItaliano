@@ -12,14 +12,14 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 072 | Preposições "tra"/"fra" — diferença? | 2026-07-28 | 1 |
 | 073 | As 7 formas articuladas de "a" + artigo? | 2026-07-28 | 1 |
 | 075 | As 7 formas articuladas de "di" + artigo? | 2026-07-28 | 1 |
+| 081 | Quais são as terminações de -ERE pra io, tu, lui/lei, noi, voi, loro? | 2026-07-28 | 1 |
+| 082 | Entre -ARE e -ERE, qual pessoa tem a MESMA terminação nas duas famílias? | 2026-07-28 | 1 |
+| 083 | Em "leggiamo", o G soa forte ou suave, e por quê? | 2026-07-28 | 1 |
 | 007 | Padrão mais comum de força de sílaba (piana/paroxítona) — tem acento? | 2026-07-28 | 5 |
 | 018 | Diferença de uso entre "ciao" e "arrivederci"? | 2026-07-28 | 6 |
 | 019 | "Prego" significa só "de nada"? | 2026-07-28 | 6 |
-| 020 | Regra geral de gênero pela terminação do substantivo? | 2026-07-28 | 6 |
 | 036 | Artigo definido feminino singular — regra e exceção? | 2026-07-29 | 2 |
-| 049 | Com essere + adjetivo, o adjetivo concorda em que com o sujeito? | 2026-07-29 | 2 |
 | 050 | Conjugue AVERE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-29 | 2 |
-| 059 | Como se diz "por que / porque" em italiano? | 2026-07-29 | 2 |
 | 061 | Adjetivo "bello" — as 4 formas concordando com genero/numero? | 2026-07-29 | 2 |
 | 074 | Regra de quando a consoante do artigo dobra com "a"? | 2026-07-29 | 2 |
 | 077 | As 7 formas articuladas de "in" + artigo? | 2026-07-29 | 2 |
@@ -66,6 +66,8 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 026 | Quais sao as terminacoes de -ARE pra io, tu, lui/lei, noi, voi, loro? | 2026-07-31 | 4 |
 | 043 | Por que o masculino tem UNO mas o feminino nao tem equivalente pra S+consoante/Z/GN? | 2026-07-31 | 4 |
 | 044 | Quais sao os 7 pronomes pessoais do italiano? | 2026-07-31 | 4 |
+| 049 | Com essere + adjetivo, o adjetivo concorda em que com o sujeito? | 2026-07-31 | 4 |
+| 059 | Como se diz "por que / porque" em italiano? | 2026-07-31 | 4 |
 | 004 | Como soa SC antes de E/I vs. antes de A/O/U? | 2026-08-01 | 5 |
 | 025 | Processo pra conjugar um verbo -ARE: qual é o primeiro passo? | 2026-08-02 | 6 |
 | 039 | Plural dos artigos LA e L' (feminino)? | 2026-08-02 | 6 |
@@ -83,3 +85,4 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 014 | Como se diz 20 em italiano? | 2026-08-08 | 12 |
 | 023 | Gênero de "chiave" (chave) e "fiore" (flor)? | 2026-08-08 | 12 |
 | 024 | Gênero de "notte" (noite), "pane" (pão) e "stazione" (estação)? | 2026-08-08 | 12 |
+| 020 | Regra geral de gênero pela terminação do substantivo? | 2026-08-09 | 13 |

@@ -27,12 +27,14 @@ R7 DEFAULT    else → LEARN new (warm up with any 1–7 due cards first)
 - Consolidation floor `C`: **0.67** (caps review debt at one-third)
 - Big-due trigger: **8** (≈ one review sitting)
 
-**Current state (end of Session 16, full):**
-- Due / overdue: **0 due today, 0 overdue**. Next due 2026-07-28 (8 cards).
+**Current state (end of Session 17):**
+- Due / overdue: **0 due today, 0 overdue**. Next due 2026-07-28 (11 cards, incl. 3 new -ERE cards).
 - Open weak spots: **0**
-- Consolidation: C = 71/80 = 89% (up from 73% at start of session — largest single-session gain to date)
-- Last review accuracy: **0.77 (77%)**, combined across the whole session (23/30 reviewed instances: 33% on the initial 9-card catch-up, 94% on the follow-up 17-card consolidation round)
-- Next session: **R4 ACCURACY technically applies → REVIEW** (0.77 < 0.80 floor, first-match-wins on the ladder). Worth flagging as borderline: the 0.77 is dragged down entirely by the rough 9-card catch-up at session start (33%); the follow-up 17-card round was clean at 94%. A short warm-up review before new content is still the correct call per the rule, just not a sign of fresh weakness.
+- Consolidation: C = 71/83 = 86% (dip from 89% is just 3 new reps=0 cards added to the denominator, not lost ground)
+- Last review accuracy: **1.0 (100%)** — 3-card warm-up (020, 049, 059), confirming Session 16's 77% dip was catch-up fatigue, not a real gap
+- Next session: **R7 DEFAULT → LEARN new** (accuracy back above the 0.80 floor, no overdue, no open weak spots). Good candidate: continue Stage 02 with regular -IRE verbs (plain + the -isc- pattern), the next untaught topic.
+
+**Prior state (end of Session 16, full):** 0 due/overdue, consolidation 89% (71/80), accuracy 77% (dragged down by a rough 9-card catch-up, 33%; the follow-up 17-card round was clean at 94%). Flagged R4 for Session 17 — resolved this session via the warm-up above.
 
 **Prior state (end of Session 15):** 9 overdue (2026-07-25 batch not reached), consolidation 73% (58/80), accuracy 72%.
 

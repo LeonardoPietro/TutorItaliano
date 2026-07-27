@@ -1,7 +1,7 @@
 # 📊 Italian Progress Dashboard
 
 **Learner started:** 2026-07-21 · **Goal:** Travel-conversational Italian · **Budget:** 3–5 hrs/week
-**Sessions:** 16 · **Study minutes:** 425 · **Streak:** 6 days
+**Sessions:** 17 · **Study minutes:** 445 · **Streak:** 6 days
 
 ## Overall roadmap
 
@@ -9,7 +9,7 @@
 |---|-------|--------|---------|--------|
 | 00 | Foundations | ✅ complete | [██████████████████████] 100% | 12/12 |
 | 01 | Prepositions | ✅ complete | [██████████████████████] 100% | 8/8 |
-| 02 | Present-Tense Basics | 🟡 in progress | [██░░░░░░░░░░░░░░░░░░░░] 11% | 1/9 |
+| 02 | Present-Tense Basics | 🟡 in progress | [█████░░░░░░░░░░░░░░░░] 22% | 2/9 |
 | 03 | Travel Survival | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/10 |
 | 04 | Past I — Passato Prossimo | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/8 |
 | 05 | Past II — Imperfetto & Description | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/8 |
@@ -21,9 +21,9 @@
 | 11 | Fluency & Expert Polish | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/7 |
 
 ## Flashcards
-Total: 80 · Due today: 0 · Overdue: 0 · Next due: 2026-07-28 (8 cards)
+Total: 83 · Due today: 0 · Overdue: 0 · Next due: 2026-07-28 (11 cards)
 
-**Consolidation status:** 71/80 firm (89%) — Session 16 (full): started by clearing the last 9 overdue cards from the 2026-07-25 batch (005, 012, 016, 026, 036,040, 044, 045, 046) — 3 Good, 2 Hard, 4 Again, 33% first-try. Followed with a targeted reinforcement of the weakest 4 (016, 040, 044, 045) — all Good. Then, at the learner's request to raise the consolidation percentage, ran a bonus round on every card still under reps<2 (17 cards: 005, 006, 016, 027, 028, 029, 033, 034, 035, 040, 041, 045, 046, 058, 072, 073, 075) — 16/17 correct first try (94%; 033 briefly mixed up definite/indefinite articles, self-corrected, learner graded it Good on override). Combined session accuracy 77% (23/30 reviewed instances). Consolidation jumped from 73% to 89% (58→71/80) — the largest single-session gain to date, since most of these cards only needed one more Good to cross reps≥2.
+**Consolidation status:** 71/83 firm (86%) — Session 17: 3-card warm-up review (020, 049, 059) prompted by Gate rule R4 (last accuracy 77% < 80% floor) — 3/3 Good on first try (100%), confirming the prior session's low accuracy was catch-up fatigue, not a real gap. Then taught Stage 02's regular -ERE conjugation (3 new cards, 081-083), connecting the leggiamo/leggi G-sound shift back to the already-mastered C/G soft-hard rule. Consolidation ratio dipped slightly (89%→86%) only because 3 new reps=0 cards were added to the denominator — the 71 previously-firm cards are unchanged.
 
 ## Weak spots
 None open — both remaining weak spots resolved this session.
@@ -36,6 +36,7 @@ Resolved:
 - ✅ R duplo vibration model (tested: coro vs. corro — captured vibration pattern) — Session 3
 
 ## Notes
+Session 17: Gate → REVIEW (R4, last accuracy 77%<80%, though 0 cards were formally due/overdue). Ran a 3-card warm-up (020, 049, 059) — 3/3 Good first try, confirming the dip was fatigue from Session 16's catch-up batch, not a fresh gap; one inline slip during teaching (learner momentarily inverted the G soft/hard-before-vowel rule, self-corrected immediately, not logged as a formal weak spot). Then taught Stage 02's regular -ERE conjugation (io/tu/lui-lei/noi/voi/loro: -o/-i/-e/-iamo/-ete/-ono), explicitly contrasting it against -ARE (only "tu" shares the same ending across both families) and connecting the "leggiamo" G-sound shift back to the already-mastered C/G-before-E/I rule. Learner conjugated SCRIVERE and PRENDERE correctly unaided, and gave a fully correct Feynman explanation (raiz + terminação) for VENDERE after one vague first pass. 3 new cards (081-083). Stage 02 now 2/9 (22%).
 Session 4: taught Stage 01 topic (-ARE verbs, present tense) while Stage 00 remains open. Also ran a 10-card review of older Stage 00 cards — 100% accuracy (up from 67%). Created 5 new flashcards (025–029).
 Session 6: taught Stage 00's plural patterns topic (singular→plural: -o→-i, -a→-e, -e→-i regardless of gender). Learner correctly predicted all 4 practice items unaided (libri, chiavi, case, notti) and explained the -e rule's logic without prompting. Created 3 new flashcards (030–032). Stage 00 reached 6/12 (50%).
 Session 7: taught Stage 00's definite articles topic (masculine singular: il/lo/l'). Learner correctly answered all 3 checks unaided (l'orologio, lo zio, il cane) and self-corrected the reflection to include H as an l' trigger without being told. Created 3 new flashcards (033–035). Stage 00 now 7/12 (58%).

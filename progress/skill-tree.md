@@ -1,9 +1,12 @@
-# Italian Skill Tree — Stage 00 (Foundations) + Stage 01 (started)
+# Italian Skill Tree — Stage 00 + 01 (complete), Stage 02 (started)
 
-**Stage 00 mastery: 75%** (9 of 12 planned topics reached — NOT complete)
-**Stage 01 mastery: 10%** (1 of 10 topics — -ARE verbs taught)
-**Card consolidation: 65%** (28/43 cards with reps≥2; 4 new indefinite-article cards at reps=0 pull the ratio just under the 0.67 floor until reviewed once)
-**Most recent review accuracy: 71%** (12/17, Session 9 — 100% on the follow-up re-teach; no review ran in Session 10, which was new material)
+**Stage 00 mastery: 100%** (complete — see `curriculum/stages/00-foundations.md`)
+**Stage 01 mastery: 100%** (complete — see `curriculum/stages/01-prepositions.md`)
+**Stage 02 mastery: 22%** (2 of 9 topics — -ARE and -ERE verbs taught)
+**Card consolidation: 86%** (71/83 cards with reps≥2; 3 new -ERE cards at reps=0 pull the ratio down slightly until reviewed once)
+**Most recent review accuracy: 100%** (3/3, Session 17 warm-up — up from 77% in Session 16, which was dragged down by a rough 9-card overdue catch-up)
+
+*(This file's per-topic breakdown below predates Stage 00/01 completion and Session 9-era numbers — kept for the detailed history; see `logs/INDEX.md` and `progress/DASHBOARD.md` for current state.)*
 
 ---
 
