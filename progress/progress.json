@@ -13,14 +13,14 @@
                        "notebook_title":  "Italian — Tutor"
                    },
     "stats":  {
-                  "sessions":  17,
-                  "study_minutes":  445,
-                  "concepts_mastered":  24,
-                  "flashcards_total":  83,
+                  "sessions":  18,
+                  "study_minutes":  465,
+                  "concepts_mastered":  25,
+                  "flashcards_total":  86,
                   "flashcards_due":  0,
-                  "exercises_solved":  39,
+                  "exercises_solved":  41,
                   "quizzes_taken":  3,
-                  "feynman_attempts":  11,
+                  "feynman_attempts":  12,
                   "streak_days":  6,
                   "last_session_date":  "2026-07-27"
               },
@@ -28,7 +28,7 @@
                             "last_review_date":  "2026-07-27",
                             "last_review_accuracy":  1.0,
                             "cards_consolidated":  71,
-                            "consolidation_ratio":  0.86
+                            "consolidation_ratio":  0.83
                         },
     "stages":  [
                    {
@@ -51,9 +51,9 @@
                        "id":  "02-present-tense-basics",
                        "title":  "Present-Tense Basics",
                        "status":  "in_progress",
-                       "mastery":  0.22,
+                       "mastery":  0.33,
                        "topics_total":  9,
-                       "topics_done":  2
+                       "topics_done":  3
                    },
                    {
                        "id":  "03-travel-survival",

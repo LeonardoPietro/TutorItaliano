@@ -15,6 +15,9 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 081 | Quais são as terminações de -ERE pra io, tu, lui/lei, noi, voi, loro? | 2026-07-28 | 1 |
 | 082 | Entre -ARE e -ERE, qual pessoa tem a MESMA terminação nas duas famílias? | 2026-07-28 | 1 |
 | 083 | Em "leggiamo", o G soa forte ou suave, e por quê? | 2026-07-28 | 1 |
+| 084 | Terminações do padrão simples -IRE pra io, tu, lui/lei, noi, voi, loro? | 2026-07-28 | 1 |
+| 085 | Onde aparece o -isc- na conjugação dos verbos -IRE tipo capire? | 2026-07-28 | 1 |
+| 086 | Existe regra fixa pra saber se um verbo -IRE leva -isc- ou não? | 2026-07-28 | 1 |
 | 007 | Padrão mais comum de força de sílaba (piana/paroxítona) — tem acento? | 2026-07-28 | 5 |
 | 018 | Diferença de uso entre "ciao" e "arrivederci"? | 2026-07-28 | 6 |
 | 019 | "Prego" significa só "de nada"? | 2026-07-28 | 6 |
