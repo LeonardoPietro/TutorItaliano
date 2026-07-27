@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"/c/Users/arum/Downloads/TutorItaliano\" && mkdir -p curriculum/stages progress logs/sessions flashcards review feynman exercises/solved assessments playground visuals media && ls -la)",
+      "Bash(awk '/^# 🎓 LEARN-ANYTHING TUTOR/,0' learn-anything-tutor.md)",
+      "Read(//tmp/**)",
+      "Bash(python3 -c ' *)",
+      "Bash(awk -F'|' '{gsub\\(/^ +| +$/,\"\",$2\\); gsub\\(/^ +| +$/,\"\",$3\\); print $2\"::\"$3}')",
+      "Bash(awk -F'|' '{gsub\\(/^ +| +$/,\"\",$2\\); gsub\\(/^ +| +$/,\"\",$10\\); print $2\",\"$10}')",
+      "Bash(awk -F'|' '{gsub\\(/^ +| +$/,\"\",$2\\); gsub\\(/^ +| +$/,\"\",$11\\); print $2\",\"$11}')",
+      "Bash(awk -F',' '{if\\($2+0>=2\\) print $1\" reps=\"$2\" CONSOLIDATED\"; else print $1\" reps=\"$2}')",
+      "WebSearch",
+      "Bash(xxd line15.txt)",
+      "Bash(sed -n '1,14p' deck.md)",
+      "Bash(cat line15.txt)",
+      "Bash(sed -n '16,$p' deck.md)",
+      "Bash(mv deck.new deck.md)",
+      "Bash(rm line15.txt)",
+      "Bash(printf '| 010 | Par mínimo: diferença entre \"ancora\" e \"àncora\"? | ancora \\(an-CO-ra, sem acento\\) = ainda/de novo; àncora \\(ÀN-co-ra, com acento\\) = âncora do barco — grafia quase igual, sentido totalmente diferente, agora ensinado explicitamente | acentuacao | 00-foundations | 2026-07-21 | 2026-07-29 | 5 | 2.3 | 3 | 0 |\\\\n')",
+      "Bash(printf '| 022 | \"La mano\" é exceção a que regra? | Termina em -o mas é feminino — exceção famosa à regra \"-o = masculino\" | genero | 00-foundations | 2026-07-21 | 2026-07-29 | 5 | 2.3 | 3 | 0 |\\\\n')",
+      "Bash(sed -n '1,16p' deck.md)",
+      "Bash(cat l17.txt)",
+      "Bash(sed -n '18,28p' deck.md)",
+      "Bash(awk -F'|' 'NR>2 && NF>5 {gsub\\(/ /,\"\",$10\\); print $1, $10}' deck.md)",
+      "Bash(awk -F'|' 'NR>2 && NF>=13 {gsub\\(/^ +| +$/,\"\",$2\\); gsub\\(/^ +| +$/,\"\",$11\\); gsub\\(/^ +| +$/,\"\",$8\\); print $2, $11, $8}' deck.md)"
+    ]
+  }
+}
