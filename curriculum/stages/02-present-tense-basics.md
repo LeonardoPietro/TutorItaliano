@@ -1,7 +1,7 @@
 # Stage 02 — Present-Tense Basics
 
 **Theme:** Regular verb families + core irregulars, adjectives, questions.
-**Status:** in_progress (3/9)
+**Status:** in_progress (4/9)
 
 ## Objectives
 Move from naming things (Stage 00) to describing actions and states in the
@@ -11,7 +11,7 @@ present — the tense that carries most everyday conversation.
 - [x] Regular **-are** verbs, present tense
 - [x] Regular **-ere** verbs, present tense
 - [x] Regular **-ire** verbs, present tense (plain + **-isc-** pattern)
-- [ ] Core irregulars: andare, fare, potere, volere, dovere, venire
+- [x] Core irregulars: andare, fare, potere, volere, dovere, venire
 - [ ] Adjective agreement (gender/number) and placement (before/after noun)
 - [ ] Possessive adjectives (mio, tuo, suo, nostro, vostro, loro)
 - [ ] Negation with **non**

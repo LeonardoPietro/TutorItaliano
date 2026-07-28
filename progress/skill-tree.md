@@ -2,9 +2,9 @@
 
 **Stage 00 mastery: 100%** (complete — see `curriculum/stages/00-foundations.md`)
 **Stage 01 mastery: 100%** (complete — see `curriculum/stages/01-prepositions.md`)
-**Stage 02 mastery: 22%** (2 of 9 topics — -ARE and -ERE verbs taught)
-**Card consolidation: 86%** (71/83 cards with reps≥2; 3 new -ERE cards at reps=0 pull the ratio down slightly until reviewed once)
-**Most recent review accuracy: 100%** (3/3, Session 17 warm-up — up from 77% in Session 16, which was dragged down by a rough 9-card overdue catch-up)
+**Stage 02 mastery: 44%** (4 of 9 topics — -ARE, -ERE, -IRE verbs and the 6 core irregulars taught)
+**Card consolidation: 85%** (78/92 cards with reps≥2)
+**Most recent review accuracy: 86%** (12/14, Session 19 — 2 Again: 029 cantono reasoning, 082 an incomplete flashcard)
 
 *(This file's per-topic breakdown below predates Stage 00/01 completion and Session 9-era numbers — kept for the detailed history; see `logs/INDEX.md` and `progress/DASHBOARD.md` for current state.)*
 

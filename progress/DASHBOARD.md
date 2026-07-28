@@ -1,7 +1,7 @@
 # 📊 Italian Progress Dashboard
 
 **Learner started:** 2026-07-21 · **Goal:** Travel-conversational Italian · **Budget:** 3–5 hrs/week
-**Sessions:** 18 · **Study minutes:** 465 · **Streak:** 6 days
+**Sessions:** 19 · **Study minutes:** 505 · **Streak:** 7 days
 
 ## Overall roadmap
 
@@ -9,7 +9,7 @@
 |---|-------|--------|---------|--------|
 | 00 | Foundations | ✅ complete | [██████████████████████] 100% | 12/12 |
 | 01 | Prepositions | ✅ complete | [██████████████████████] 100% | 8/8 |
-| 02 | Present-Tense Basics | 🟡 in progress | [███████░░░░░░░░░░░░░░] 33% | 3/9 |
+| 02 | Present-Tense Basics | 🟡 in progress | [█████████░░░░░░░░░░░] 44% | 4/9 |
 | 03 | Travel Survival | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/10 |
 | 04 | Past I — Passato Prossimo | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/8 |
 | 05 | Past II — Imperfetto & Description | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/8 |
@@ -21,9 +21,9 @@
 | 11 | Fluency & Expert Polish | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/7 |
 
 ## Flashcards
-Total: 86 · Due today: 0 · Overdue: 0 · Next due: 2026-07-28 (14 cards)
+Total: 92 · Due today: 0 · Overdue: 0 · Next due: 2026-07-29 (25 cards)
 
-**Consolidation status:** 71/86 firm (83%) — Session 18 resolved the last open weak spot (plural article/verb agreement, via "ci sono le chiavi sulla tavola") and taught Stage 02's regular -IRE conjugation, both plain (dormire) and -isc- (capire) patterns (3 new cards, 084-086). Consolidation ratio dipped slightly (86%→83%) only because 3 new reps=0 cards were added to the denominator — the 71 previously-firm cards are unchanged.
+**Consolidation status:** 78/92 firm (85%) — Session 19 reviewed all 14 cards due 2026-07-28 (86% first-try accuracy, 2 Again: 029 and 082) and taught Stage 02's six core irregular verbs (andare, fare, potere, volere, dovere, venire; 6 new cards, 087-092). 7 cards reached reps≥2 and became newly consolidated (006, 041, 046, 058, 072, 073, 075).
 
 ## Weak spots
 None open.
@@ -36,6 +36,7 @@ Resolved:
 - ✅ R duplo vibration model (tested: coro vs. corro — captured vibration pattern) — Session 3
 
 ## Notes
+Session 19: Gate → REVIEW (R6 BIG DUE, 14 cards due today). Reviewed all 14: 12/14 Good on first try (86%). Two Again: 029 (vague "cantono" reasoning, re-explained as io=-o vs. loro=-ano mixup) and 082 (learner correctly rejected a flawed hint but the flashcard itself was incomplete — only listed "tu" as sharing endings between -ARE/-ERE when io and noi also do; card corrected). Then taught Stage 02's six core irregular verbs: ANDARE, FARE, POTERE, VOLERE, DOVERE, VENIRE — full conjugation tables for each, with the pattern that **voi stays regular in all six**, io/tu/lui-lei/loro tend to be irregular, and noi is mixed (regular in andare/venire, irregular in fare/potere/volere/dovere). Notable moments: learner correctly identified that "faccio"'s double-C is gemination (same principle as card 005's fatto/fato), not a hard/soft-C rule, after a bad hint from the tutor; learner also made a sharp real-world observation that "vorrei" (conditional, previewed for Stage 07) is more polite than the drilled "voglio," showing prior pragmatic exposure; one drill answer briefly mixed up DOVERE with VENIRE (devono→vengono), self-corrected after one prompt. 6 new cards (087-092). Stage 02 now 4/9 (44%).
 Session 18: Gate → REVIEW (R3, open weak spot: plural article/verb agreement, reaberto Session 14). Resolved via "ci sono le chiavi sulla tavola" (ci sono vs. c'è, artigo plural le, preposição articulada sulla) — third consecutive correct demonstration, closed and marked consolidated. Then taught Stage 02's regular -IRE conjugation: plain pattern via DORMIRE (-o/-i/-e/-iamo/-ite/-ono, only "voi" differs from -ERE) and the -isc- pattern via CAPIRE (extra -isc- in io/tu/lui-lei/loro, not noi/voi). Learner asked whether a rule predicts which pattern a verb takes — answered honestly that none exists (memorization per verb, dictionaries mark it), only an approximate tendency (basic/older verbs tend to be plain, learned/erudite verbs tend to -isc-). PARTIRE (noi) and FINIRE (tu) correct unaided; 4/4 correct plain-vs-isc classification (aprire, preferire, dormire, pulire); free production caught one person-agreement slip (capiscono for "io" instead of "loro"'s form), self-corrected after one hint, not logged as a formal weak spot. 3 new cards (084-086). Stage 02 now 3/9 (33%).
 Session 17: Gate → REVIEW (R4, last accuracy 77%<80%, though 0 cards were formally due/overdue). Ran a 3-card warm-up (020, 049, 059) — 3/3 Good first try, confirming the dip was fatigue from Session 16's catch-up batch, not a fresh gap; one inline slip during teaching (learner momentarily inverted the G soft/hard-before-vowel rule, self-corrected immediately, not logged as a formal weak spot). Then taught Stage 02's regular -ERE conjugation (io/tu/lui-lei/noi/voi/loro: -o/-i/-e/-iamo/-ete/-ono), explicitly contrasting it against -ARE (only "tu" shares the same ending across both families) and connecting the "leggiamo" G-sound shift back to the already-mastered C/G-before-E/I rule. Learner conjugated SCRIVERE and PRENDERE correctly unaided, and gave a fully correct Feynman explanation (raiz + terminação) for VENDERE after one vague first pass. 3 new cards (081-083). Stage 02 now 2/9 (22%).
 Session 4: taught Stage 01 topic (-ARE verbs, present tense) while Stage 00 remains open. Also ran a 10-card review of older Stage 00 cards — 100% accuracy (up from 67%). Created 5 new flashcards (025–029).

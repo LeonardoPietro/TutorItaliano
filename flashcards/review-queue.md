@@ -4,23 +4,22 @@ Sorted by due date ascending. Regenerated at the end of every session.
 
 | id | front | due | interval(d) |
 |----|-------|-----|-------------|
-| 006 | O R do italiano tem versão gutural como o do português (carro)? | 2026-07-28 | 1 |
-| 029 | Por que CANTARE para "io" é "canto" e nao "cantono"? | 2026-07-28 | 1 |
-| 041 | Artigo indefinido masculino antes de vogal — leva apostrofo? | 2026-07-28 | 1 |
-| 046 | Por que io/noi/voi/loro costumam sumir da frase, mas lui/lei costumam ficar? | 2026-07-28 | 1 |
-| 058 | Como se diz "como" em italiano? | 2026-07-28 | 1 |
-| 072 | Preposições "tra"/"fra" — diferença? | 2026-07-28 | 1 |
-| 073 | As 7 formas articuladas de "a" + artigo? | 2026-07-28 | 1 |
-| 075 | As 7 formas articuladas de "di" + artigo? | 2026-07-28 | 1 |
-| 081 | Quais são as terminações de -ERE pra io, tu, lui/lei, noi, voi, loro? | 2026-07-28 | 1 |
-| 082 | Entre -ARE e -ERE, qual pessoa tem a MESMA terminação nas duas famílias? | 2026-07-28 | 1 |
-| 083 | Em "leggiamo", o G soa forte ou suave, e por quê? | 2026-07-28 | 1 |
-| 084 | Terminações do padrão simples -IRE pra io, tu, lui/lei, noi, voi, loro? | 2026-07-28 | 1 |
-| 085 | Onde aparece o -isc- na conjugação dos verbos -IRE tipo capire? | 2026-07-28 | 1 |
-| 086 | Existe regra fixa pra saber se um verbo -IRE leva -isc- ou não? | 2026-07-28 | 1 |
 | 007 | Padrão mais comum de força de sílaba (piana/paroxítona) — tem acento? | 2026-07-28 | 5 |
 | 018 | Diferença de uso entre "ciao" e "arrivederci"? | 2026-07-28 | 6 |
 | 019 | "Prego" significa só "de nada"? | 2026-07-28 | 6 |
+| 029 | Por que CANTARE para "io" é "canto" e nao "cantono"? | 2026-07-29 | 1 |
+| 081 | Quais são as terminações de -ERE pra io, tu, lui/lei, noi, voi, loro? | 2026-07-29 | 1 |
+| 082 | Entre -ARE e -ERE, qual pessoa tem a MESMA terminação nas duas famílias? | 2026-07-29 | 1 |
+| 083 | Em "leggiamo", o G soa forte ou suave, e por quê? | 2026-07-29 | 1 |
+| 084 | Terminações do padrão simples -IRE pra io, tu, lui/lei, noi, voi, loro? | 2026-07-29 | 1 |
+| 085 | Onde aparece o -isc- na conjugação dos verbos -IRE tipo capire? | 2026-07-29 | 1 |
+| 086 | Existe regra fixa pra saber se um verbo -IRE leva -isc- ou não? | 2026-07-29 | 1 |
+| 087 | Conjugue ANDARE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-29 | 1 |
+| 088 | Conjugue FARE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-29 | 1 |
+| 089 | Conjugue POTERE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-29 | 1 |
+| 090 | Conjugue VOLERE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-29 | 1 |
+| 091 | Conjugue DOVERE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-29 | 1 |
+| 092 | Conjugue VENIRE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-29 | 1 |
 | 036 | Artigo definido feminino singular — regra e exceção? | 2026-07-29 | 2 |
 | 050 | Conjugue AVERE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-29 | 2 |
 | 061 | Adjetivo "bello" — as 4 formas concordando com genero/numero? | 2026-07-29 | 2 |
@@ -65,6 +64,13 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 078 | As 7 formas articuladas de "su" + artigo? | 2026-07-30 | 3 |
 | 079 | Quais preposições quase nunca se articulam? | 2026-07-30 | 3 |
 | 080 | 4 expressões fixas verbo+preposição? | 2026-07-30 | 3 |
+| 006 | O R do italiano tem versão gutural como o do português (carro)? | 2026-07-31 | 3 |
+| 041 | Artigo indefinido masculino antes de vogal — leva apostrofo? | 2026-07-31 | 3 |
+| 046 | Por que io/noi/voi/loro costumam sumir da frase, mas lui/lei costumam ficar? | 2026-07-31 | 3 |
+| 058 | Como se diz "como" em italiano? | 2026-07-31 | 3 |
+| 072 | Preposições "tra"/"fra" — diferença? | 2026-07-31 | 3 |
+| 073 | As 7 formas articuladas de "a" + artigo? | 2026-07-31 | 3 |
+| 075 | As 7 formas articuladas de "di" + artigo? | 2026-07-31 | 3 |
 | 012 | Padrão de 11 a 16 em italiano? | 2026-07-31 | 4 |
 | 026 | Quais sao as terminacoes de -ARE pra io, tu, lui/lei, noi, voi, loro? | 2026-07-31 | 4 |
 | 043 | Por que o masculino tem UNO mas o feminino nao tem equivalente pra S+consoante/Z/GN? | 2026-07-31 | 4 |
