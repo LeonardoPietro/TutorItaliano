@@ -1,7 +1,7 @@
 # 📊 Italian Progress Dashboard
 
 **Learner started:** 2026-07-21 · **Goal:** Travel-conversational Italian · **Budget:** 3–5 hrs/week
-**Sessions:** 20 · **Study minutes:** 560 · **Streak:** 1 day (reset — 07-29 skipped)
+**Sessions:** 21 · **Study minutes:** 580 · **Streak:** 1 day (reset — 07-29 skipped)
 
 ## Overall roadmap
 
@@ -26,13 +26,13 @@ Total: 91 (corrected — card 062 never existed) · Due today: 0 · Overdue: 0 �
 **Consolidation status:** 80/91 firm (88%) — Session 20 was a pure catch-up review clearing the entire 60-card backlog (28 overdue from 07-28/07-29 + 32 due 07-30) after Session 19→20 skipped a day. 72% first-try accuracy (43/60) — lower than usual, expected after the gap.
 
 ## Weak spots
-Open (flagged Session 20, need reteach before new content):
-- 🔴 "a" vs "da" for destino=pessoa (vado da Marco, not "a Marco") — missed in isolation, card 063
-- 🔴 uo/ie diphthong didn't generalize from potere to volere/venire (vuoi/vuole, vieni/viene missed)
-- 🔴 dovere's noi/voi irregularity (dobbiamo/dovete) confused with the devo/devi/deve/devono pattern
-- 🔴 misreading which grammatical persons a conjugation question asks (card 028 — right conjugation, wrong persons)
+Open: none — all 4 flagged in Session 20 resolved via dedicated reteach in Session 21.
 
 Resolved:
+- ✅ "a" vs "da" for destino=pessoa — resolved Session 21 (one slip using di/del, corrected; "vado da Anna" clean)
+- ✅ uo/ie diphthong in volere/venire — resolved Session 21 (learner self-identified the tu/lui-lei-only pattern)
+- ✅ dovere's noi/voi irregularity (dobbiamo/dovete) — resolved Session 21
+- ✅ misreading which grammatical persons a conjugation question asks — resolved Session 21 (mangiare tu/voi/loro clean)
 - ✅ Concordância de número (artigo+verbo, c'è vs. ci sono) — flagged Session 13/14, reaberto 2026-07-24, resolved Session 18 (answered "ci sono le chiavi sulla tavola" unaided)
 - ✅ Concordância de adjetivo plural com essere (felice→felici) — resolved Session 15 (answered "Noi siamo molto felici" unaided)
 - ✅ Confusão "di" vs. "da" (origem/procedência) — resolved Session 15 (reteach + dall'Italia / dallo studente checks)
@@ -40,6 +40,7 @@ Resolved:
 - ✅ R duplo vibration model (tested: coro vs. corro — captured vibration pattern) — Session 3
 
 ## Notes
+Session 21: Gate → REVIEW (R3 WEAK SPOT, 4 open from Session 20; R4 accuracy 0.72 would also have triggered). No cards due, no new content — pure dedicated reteach of all 4 flagged weak spots. 78% first-try (7/9 checks): uo/ie diphthong resolved (learner self-identified the tu/lui-lei-only pattern from a full potere/volere/venire table; volere's "vuole" needed 2 corrections before landing, venire clean); dovere noi/voi resolved (dobbiamo/dovete, after correctly predicting the regular-but-wrong "deviamo" contrast); a-vs-da for destino=pessoa resolved (one slip conflating with di/del, corrected, then "vado da Anna" clean); question-reading care resolved (mangiare tu/voi/loro answered in the right persons this time). `review/to-review.md` fully cleared — 0 open weak spots. Stage 02 stays 4/9 (44%). Gate for next session: 25 cards due 2026-07-31, no weak spots pending, likely R2/R6 → REVIEW the batch, then resume new Stage 02 content.
 Session 20: Gate → REVIEW (R2 OVERDUE, 28 overdue after Session 19→20 skipped 07-29). Cleared the entire accumulated backlog — 60 cards (28 overdue + 32 due today) — in due-date order, no new content taught. 72% first-try accuracy (43/60): 7 Again, 10 Hard, rest Good/Easy. Four new weak-spot patterns surfaced and were flagged (not yet re-taught, pure review session): the uo/ie diphthong pattern learned cleanly for POTERE didn't transfer to VOLERE (vuoi/vuole) or VENIRE (vieni/viene); DOVERE's noi/voi irregularity (dobbiamo/dovete) got confused with the regular devo/devi/deve/devono stem; "a" vs "da" for destino=pessoa was missed when tested in isolation (063), separate from the previously-resolved di/da confusion; and one card (028, mangiare tu/voi/loro) was answered with the right conjugation forms but for the wrong grammatical persons — a reading-the-question slip, not a grammar gap. Consolidation rose 85%→88% (80/91 — also corrected flashcards_total from 92 to 91, since card 062 never existed in the deck). Stage 02 stays 4/9 (44%). Recommend a quick reteach of the 4 open weak spots at the start of next session before resuming new Stage 02 content (adjective agreement, possessives, negation, sim/não and wh- questions, days/months/hours).
 Session 19: Gate → REVIEW (R6 BIG DUE, 14 cards due today). Reviewed all 14: 12/14 Good on first try (86%). Two Again: 029 (vague "cantono" reasoning, re-explained as io=-o vs. loro=-ano mixup) and 082 (learner correctly rejected a flawed hint but the flashcard itself was incomplete — only listed "tu" as sharing endings between -ARE/-ERE when io and noi also do; card corrected). Then taught Stage 02's six core irregular verbs: ANDARE, FARE, POTERE, VOLERE, DOVERE, VENIRE — full conjugation tables for each, with the pattern that **voi stays regular in all six**, io/tu/lui-lei/loro tend to be irregular, and noi is mixed (regular in andare/venire, irregular in fare/potere/volere/dovere). Notable moments: learner correctly identified that "faccio"'s double-C is gemination (same principle as card 005's fatto/fato), not a hard/soft-C rule, after a bad hint from the tutor; learner also made a sharp real-world observation that "vorrei" (conditional, previewed for Stage 07) is more polite than the drilled "voglio," showing prior pragmatic exposure; one drill answer briefly mixed up DOVERE with VENIRE (devono→vengono), self-corrected after one prompt. 6 new cards (087-092). Stage 02 now 4/9 (44%).
 Session 18: Gate → REVIEW (R3, open weak spot: plural article/verb agreement, reaberto Session 14). Resolved via "ci sono le chiavi sulla tavola" (ci sono vs. c'è, artigo plural le, preposição articulada sulla) — third consecutive correct demonstration, closed and marked consolidated. Then taught Stage 02's regular -IRE conjugation: plain pattern via DORMIRE (-o/-i/-e/-iamo/-ite/-ono, only "voi" differs from -ERE) and the -isc- pattern via CAPIRE (extra -isc- in io/tu/lui-lei/loro, not noi/voi). Learner asked whether a rule predicts which pattern a verb takes — answered honestly that none exists (memorization per verb, dictionaries mark it), only an approximate tendency (basic/older verbs tend to be plain, learned/erudite verbs tend to -isc-). PARTIRE (noi) and FINIRE (tu) correct unaided; 4/4 correct plain-vs-isc classification (aprire, preferire, dormire, pulire); free production caught one person-agreement slip (capiscono for "io" instead of "loro"'s form), self-corrected after one hint, not logged as a formal weak spot. 3 new cards (084-086). Stage 02 now 3/9 (33%).

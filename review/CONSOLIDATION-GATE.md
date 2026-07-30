@@ -27,7 +27,15 @@ R7 DEFAULT    else → LEARN new (warm up with any 1–7 due cards first)
 - Consolidation floor `C`: **0.67** (caps review debt at one-third)
 - Big-due trigger: **8** (≈ one review sitting)
 
-**Current state (end of Session 17):**
+**Current state (end of Session 21):**
+- Due / overdue: **0 due today, 0 overdue**. Next due 2026-07-31 (25 cards).
+- Open weak spots: **0** — all 4 flagged in Session 20 resolved via dedicated reteach this session (uo/ie diphthong in volere/venire, dovere noi/voi, a-vs-da for destino=pessoa, question-reading care).
+- Consolidation: C = 80/91 = 88% (unchanged — no cards formally reviewed, pure reteach session)
+- This session's reteach accuracy: **78% (7/9)** — not fed into `last_review_accuracy` (that tracks SM-2 due-card reviews, none happened today)
+- Last formal review accuracy: **0.72** (Session 20, still stored in progress.json)
+- Next session: 25 cards due 2026-07-31 → likely **R2 OVERDUE/R6 BIG DUE → REVIEW** the batch, then resume new Stage 02 content (adjective agreement, possessives, negation, sim/não and wh- questions, days/months/hours).
+
+**Prior state (end of Session 17):**
 - Due / overdue: **0 due today, 0 overdue**. Next due 2026-07-28 (11 cards, incl. 3 new -ERE cards).
 - Open weak spots: **0**
 - Consolidation: C = 71/83 = 86% (dip from 89% is just 3 new reps=0 cards added to the denominator, not lost ground)
