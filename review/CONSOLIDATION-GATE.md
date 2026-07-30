@@ -28,12 +28,12 @@ R7 DEFAULT    else → LEARN new (warm up with any 1–7 due cards first)
 - Big-due trigger: **8** (≈ one review sitting)
 
 **Current state (end of Session 21):**
-- Due / overdue: **0 due today, 0 overdue**. Next due 2026-07-31 (25 cards).
+- Due / overdue: **0 due today, 0 overdue**. Next due 2026-07-31 (34 cards — 25 carried + 9 new).
 - Open weak spots: **0** — all 4 flagged in Session 20 resolved via dedicated reteach this session (uo/ie diphthong in volere/venire, dovere noi/voi, a-vs-da for destino=pessoa, question-reading care).
-- Consolidation: C = 80/91 = 88% (unchanged — no cards formally reviewed, pure reteach session)
-- This session's reteach accuracy: **78% (7/9)** — not fed into `last_review_accuracy` (that tracks SM-2 due-card reviews, none happened today)
-- Last formal review accuracy: **0.72** (Session 20, still stored in progress.json)
-- Next session: 25 cards due 2026-07-31 → likely **R2 OVERDUE/R6 BIG DUE → REVIEW** the batch, then resume new Stage 02 content (adjective agreement, possessives, negation, sim/não and wh- questions, days/months/hours).
+- Consolidation: C = 80/100 = 80% (dip from 88% purely from 9 new reps=0 cards entering the denominator, not lost ground)
+- Formal SM-2 review this session: a 3-card warm-up (059, 018, 048) outside the due queue — **67% (2/3)**, not 83% as first announced live (arithmetic error caught and corrected). Stored as `last_review_accuracy`.
+- Two new Stage 02 topics taught (adjective agreement, possessive adjectives) — 9 new cards (093–101), Stage 02 now 6/9 (67%).
+- Next session: 34 cards due 2026-07-31 → likely **R2 OVERDUE/R6 BIG DUE → REVIEW** the batch, then resume remaining Stage 02 content (negation, yes/no + wh-questions, days/months/hours).
 
 **Prior state (end of Session 17):**
 - Due / overdue: **0 due today, 0 overdue**. Next due 2026-07-28 (11 cards, incl. 3 new -ERE cards).

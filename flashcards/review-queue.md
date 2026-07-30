@@ -16,6 +16,15 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 090 | Conjugue VOLERE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-31 | 1 |
 | 091 | Conjugue DOVERE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-31 | 1 |
 | 092 | Conjugue VENIRE pra: io, tu, lui/lei, noi, voi, loro | 2026-07-31 | 1 |
+| 093 | Quais sao as 4 formas do tipo -o/-a de adjetivo (ex: alto)? | 2026-07-31 | 1 |
+| 094 | Quais sao as 2 formas do tipo -e de adjetivo (ex: felice, grande)? | 2026-07-31 | 1 |
+| 095 | Por padrao, o adjetivo vem antes ou depois do substantivo em italiano? | 2026-07-31 | 1 |
+| 096 | Quais adjetivos comuns costumam vir ANTES do substantivo (excecao a regra padrao)? | 2026-07-31 | 1 |
+| 097 | Existe algum adjetivo que MUDA DE SIGNIFICADO conforme vem antes ou depois do substantivo? De um exemplo. | 2026-07-31 | 1 |
+| 098 | Quais sao as 4 formas do possessivo "meu" (mio)? | 2026-07-31 | 1 |
+| 099 | Possessivos em italiano geralmente vem com ou sem artigo definido na frente (ex: "o meu livro")? | 2026-07-31 | 1 |
+| 100 | Quando o artigo SOME antes do possessivo (excecao)? | 2026-07-31 | 1 |
+| 101 | O possessivo "loro" (deles/delas) flexiona por genero/numero? E o artigo antes dele? | 2026-07-31 | 1 |
 | 006 | O R do italiano tem versão gutural como o do português (carro)? | 2026-07-31 | 3 |
 | 041 | Artigo indefinido masculino antes de vogal — leva apostrofo? | 2026-07-31 | 3 |
 | 046 | Por que io/noi/voi/loro costumam sumir da frase, mas lui/lei costumam ficar? | 2026-07-31 | 3 |
@@ -28,7 +37,6 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 043 | Por que o masculino tem UNO mas o feminino nao tem equivalente pra S+consoante/Z/GN? | 2026-07-31 | 4 |
 | 044 | Quais sao os 7 pronomes pessoais do italiano? | 2026-07-31 | 4 |
 | 049 | Com essere + adjetivo, o adjetivo concorda em que com o sujeito? | 2026-07-31 | 4 |
-| 059 | Como se diz "por que / porque" em italiano? | 2026-07-31 | 4 |
 | 004 | Como soa SC antes de E/I vs. antes de A/O/U? | 2026-08-01 | 5 |
 | 077 | As 7 formas articuladas de "in" + artigo? | 2026-08-01 | 2 |
 | 025 | Processo pra conjugar um verbo -ARE: qual é o primeiro passo? | 2026-08-02 | 6 |
@@ -54,6 +62,8 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 066 | Preposição "di" — o que indica? | 2026-08-03 | 4 |
 | 067 | Preposição "da" — o que indica? | 2026-08-03 | 4 |
 | 074 | Regra de quando a consoante do artigo dobra com "a"? | 2026-08-03 | 4 |
+| 048 | Por que "sono" nao causa confusao entre "io" e "loro"? | 2026-08-07 | 8 |
+| 059 | Como se diz "por que / porque" em italiano? | 2026-08-08 | 9 |
 | 001 | Regra: C antes de E/I soa como o quê? | 2026-08-05 | 9 |
 | 002 | Regra: G antes de E/I soa como o quê? | 2026-08-05 | 9 |
 | 003 | Como soam GLI e GN em italiano? | 2026-08-05 | 9 |
@@ -67,7 +77,6 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 033 | Artigo definido masculino singular — regra padrão? | 2026-08-06 | 7 |
 | 034 | Artigo definido masc. sing. antes de S+consoante ou Z? | 2026-08-06 | 7 |
 | 035 | Artigo definido masc. sing. antes de vogal ou H? | 2026-08-06 | 7 |
-| 048 | Por que "sono" nao causa confusao entre "io" e "loro"? | 2026-08-06 | 7 |
 | 051 | Por que "ho, hai, ha, hanno" tem H se ele nao se pronuncia? | 2026-08-06 | 7 |
 | 052 | Como se diz "aqui/la, existe" (singular) em italiano? | 2026-08-06 | 7 |
 | 053 | Como se diz "existem" (plural) em italiano? | 2026-08-06 | 7 |
@@ -94,4 +103,4 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 009 | O que é uma palavra sdrucciola (esdrúxula)? | 2026-08-14 | 15 |
 | 017 | Quando se usa "buonanotte"? | 2026-08-14 | 15 |
 | 021 | Qual a estratégia prática pra aprender o gênero de palavras em -e? | 2026-08-14 | 15 |
-| 018 | Diferença de uso entre "ciao" e "arrivederci"? | 2026-08-16 | 17 |
+| 018 | Diferença de uso entre "ciao" e "arrivederci"? | 2026-09-07 | 39 |

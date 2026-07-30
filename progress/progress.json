@@ -14,21 +14,21 @@
                    },
     "stats":  {
                   "sessions":  21,
-                  "study_minutes":  580,
-                  "concepts_mastered":  31,
-                  "flashcards_total":  91,
+                  "study_minutes":  600,
+                  "concepts_mastered":  33,
+                  "flashcards_total":  100,
                   "flashcards_due":  0,
-                  "exercises_solved":  49,
+                  "exercises_solved":  55,
                   "quizzes_taken":  3,
-                  "feynman_attempts":  13,
+                  "feynman_attempts":  15,
                   "streak_days":  1,
                   "last_session_date":  "2026-07-30"
               },
     "review_tracking":  {
                             "last_review_date":  "2026-07-30",
-                            "last_review_accuracy":  0.72,
+                            "last_review_accuracy":  0.667,
                             "cards_consolidated":  80,
-                            "consolidation_ratio":  0.879
+                            "consolidation_ratio":  0.800
                         },
     "stages":  [
                    {
@@ -51,9 +51,9 @@
                        "id":  "02-present-tense-basics",
                        "title":  "Present-Tense Basics",
                        "status":  "in_progress",
-                       "mastery":  0.44,
+                       "mastery":  0.67,
                        "topics_total":  9,
-                       "topics_done":  4
+                       "topics_done":  6
                    },
                    {
                        "id":  "03-travel-survival",

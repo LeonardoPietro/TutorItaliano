@@ -46,3 +46,11 @@ milestone artifact exists in `playground/` or `exercises/solved/`.
 
 ## Current position
 **Stage 02 — Present-Tense Basics** (Stage 00 — Foundations and Stage 01 — Prepositions both completed 2026-07-24; see `progress/progress.json` for live state).
+
+## Bonus / side modules (not part of the numbered path)
+These sit outside the beginner→expert progression — no mastery %, no gate
+interaction, entered only on explicit request.
+
+| Module | Theme | File |
+|--------|-------|------|
+| Slang, Vulgar Register & Cultural Swearing | Curse words/insults, register (mild vs. strong vs. off-limits slurs), grammatical behavior, regional variation | `curriculum/stages/bonus-slang-register.md` |
