@@ -13,11 +13,11 @@
                        "notebook_title":  "Italian — Tutor"
                    },
     "stats":  {
-                  "sessions":  22,
-                  "study_minutes":  630,
-                  "concepts_mastered":  33,
-                  "flashcards_total":  101,
-                  "flashcards_due":  0,
+                  "sessions":  23,
+                  "study_minutes":  675,
+                  "concepts_mastered":  36,
+                  "flashcards_total":  112,
+                  "flashcards_due":  32,
                   "exercises_solved":  55,
                   "quizzes_taken":  3,
                   "feynman_attempts":  15,
@@ -50,10 +50,10 @@
                    {
                        "id":  "02-present-tense-basics",
                        "title":  "Present-Tense Basics",
-                       "status":  "in_progress",
-                       "mastery":  0.67,
+                       "status":  "complete",
+                       "mastery":  1.0,
                        "topics_total":  9,
-                       "topics_done":  6
+                       "topics_done":  9
                    },
                    {
                        "id":  "03-travel-survival",
