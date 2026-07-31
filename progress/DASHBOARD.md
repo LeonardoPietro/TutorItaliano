@@ -1,7 +1,7 @@
 # 📊 Italian Progress Dashboard
 
 **Learner started:** 2026-07-21 · **Goal:** Travel-conversational Italian · **Budget:** 3–5 hrs/week
-**Sessions:** 21 · **Study minutes:** 600 · **Streak:** 1 day (reset — 07-29 skipped)
+**Sessions:** 22 · **Study minutes:** 630 · **Streak:** 2 days
 
 ## Overall roadmap
 
@@ -21,9 +21,9 @@
 | 11 | Fluency & Expert Polish | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/7 |
 
 ## Flashcards
-Total: 100 · Due today: 0 · Overdue: 0 · Next due: 2026-07-31 (34 cards — 25 carried + 9 new from Session 21)
+Total: 101 · Due today: 0 · Overdue: 0 · Next due: 2026-08-01+ (33 cards reviewed on 2026-07-31, now rescheduled via SM-2)
 
-**Consolidation status:** 80/100 firm (80%) — dipped from 88% purely because 9 new reps=0 cards (093–101, adjective agreement + possessives) entered the denominator this session, not from lost ground.
+**Consolidation status:** 85/101 firm (84%) — improved from 80% after Session 22 review; 9 new cards (093–101) now at reps=1 after first review pass (85% first-try accuracy, 100% after reteach).
 
 ## Weak spots
 Open: none — all 4 flagged in Session 20 resolved via dedicated reteach in Session 21.
