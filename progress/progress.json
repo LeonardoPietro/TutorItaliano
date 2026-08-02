@@ -7,28 +7,28 @@
                     "started":  "2026-07-21"
                 },
     "topic":  "Italian",
-    "current_stage":  "02-present-tense-basics",
+    "current_stage":  "03-travel-survival",
     "notebooklm":  {
                        "enabled":  true,
                        "notebook_title":  "Italian — Tutor"
                    },
     "stats":  {
-                  "sessions":  23,
-                  "study_minutes":  675,
+                  "sessions":  24,
+                  "study_minutes":  720,
                   "concepts_mastered":  36,
                   "flashcards_total":  112,
-                  "flashcards_due":  32,
+                  "flashcards_due":  31,
                   "exercises_solved":  55,
                   "quizzes_taken":  3,
                   "feynman_attempts":  15,
-                  "streak_days":  2,
-                  "last_session_date":  "2026-07-31"
+                  "streak_days":  1,
+                  "last_session_date":  "2026-08-02"
               },
     "review_tracking":  {
-                            "last_review_date":  "2026-07-31",
-                            "last_review_accuracy":  0.848,
-                            "cards_consolidated":  85,
-                            "consolidation_ratio":  0.844
+                            "last_review_date":  "2026-08-02",
+                            "last_review_accuracy":  0.811,
+                            "cards_consolidated":  99,
+                            "consolidation_ratio":  0.884
                         },
     "stages":  [
                    {
@@ -58,7 +58,7 @@
                    {
                        "id":  "03-travel-survival",
                        "title":  "Travel Survival",
-                       "status":  "not_started",
+                       "status":  "in_progress",
                        "mastery":  0.0,
                        "topics_total":  10,
                        "topics_done":  0
