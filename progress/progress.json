@@ -2,7 +2,7 @@
     "schema_version":  1,
     "learner":  {
                     "goal":  "Travel-conversational Italian — confidently handle everyday situations (ordering food, directions, small talk, hotels)",
-                    "background":  "True beginner for grammar. Knows a handful of fixed survival phrases from apps/travel (buongiorno, vorrei un caffè, sono stanco). Made a correctly-shaped but low-confidence passato prossimo attempt (ho mangiato). No working knowledge of gender/article agreement, conditional, or subjunctive (confirmed via mistranslated hypothetical: 'ci io ho tempo, io viaggerò per Italia' instead of 'Se avessi tempo, viaggerei in Italia').",
+                    "background":  "True beginner for grammar. Knows a handful of fixed survival phrases from apps/travel (buongiorno, vorrei un caffè, sono stanco). Made a correctly-shaped but low-confidence passato prossimo attempt (ho mangiato). No working knowledge of gender/article agreement, conditional, or subjunctive (confirmed via mistranslated hypothetical: \u0027ci io ho tempo, io viaggerò per Italia\u0027 instead of \u0027Se avessi tempo, viaggerei in Italia\u0027).",
                     "weekly_time_budget":  "3-5 hours",
                     "started":  "2026-07-21"
                 },
@@ -13,20 +13,20 @@
                        "notebook_title":  "Italian — Tutor"
                    },
     "stats":  {
-                  "sessions":  24,
-                  "study_minutes":  720,
+                  "sessions":  25,
+                  "study_minutes":  780,
                   "concepts_mastered":  36,
                   "flashcards_total":  112,
-                  "flashcards_due":  31,
+                  "flashcards_due":  4,
                   "exercises_solved":  55,
                   "quizzes_taken":  3,
                   "feynman_attempts":  15,
-                  "streak_days":  1,
-                  "last_session_date":  "2026-08-02"
+                  "streak_days":  2,
+                  "last_session_date":  "2026-08-03"
               },
     "review_tracking":  {
-                            "last_review_date":  "2026-08-02",
-                            "last_review_accuracy":  0.811,
+                            "last_review_date":  "2026-08-03",
+                            "last_review_accuracy":  0.667,
                             "cards_consolidated":  99,
                             "consolidation_ratio":  0.884
                         },
@@ -73,7 +73,7 @@
                    },
                    {
                        "id":  "05-past-ii-imperfetto-description",
-                       "title":  "Past II — Imperfetto & Description",
+                       "title":  "Past II — Imperfetto \u0026 Description",
                        "status":  "not_started",
                        "mastery":  0.0,
                        "topics_total":  8,
@@ -81,7 +81,7 @@
                    },
                    {
                        "id":  "06-pronouns-connected-speech",
-                       "title":  "Pronouns & Connected Speech",
+                       "title":  "Pronouns \u0026 Connected Speech",
                        "status":  "not_started",
                        "mastery":  0.0,
                        "topics_total":  8,
@@ -89,7 +89,7 @@
                    },
                    {
                        "id":  "07-future-conditional",
-                       "title":  "Future & Conditional",
+                       "title":  "Future \u0026 Conditional",
                        "status":  "not_started",
                        "mastery":  0.0,
                        "topics_total":  8,
@@ -105,7 +105,7 @@
                    },
                    {
                        "id":  "09-subjunctive-ii-hypotheticals",
-                       "title":  "Subjunctive II & Hypotheticals",
+                       "title":  "Subjunctive II \u0026 Hypotheticals",
                        "status":  "not_started",
                        "mastery":  0.0,
                        "topics_total":  7,
@@ -113,7 +113,7 @@
                    },
                    {
                        "id":  "10-advanced-connectors-register",
-                       "title":  "Advanced Connectors & Register",
+                       "title":  "Advanced Connectors \u0026 Register",
                        "status":  "not_started",
                        "mastery":  0.0,
                        "topics_total":  7,
@@ -121,7 +121,7 @@
                    },
                    {
                        "id":  "11-fluency-expert-polish",
-                       "title":  "Fluency & Expert Polish",
+                       "title":  "Fluency \u0026 Expert Polish",
                        "status":  "not_started",
                        "mastery":  0.0,
                        "topics_total":  7,

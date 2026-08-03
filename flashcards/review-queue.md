@@ -4,37 +4,10 @@ Sorted by due date ascending. Regenerated at the end of every session.
 
 | id | front | due | interval(d) |
 |----|-------|-----|-------------|
-| 013 | Padrão de 17 a 19 em italiano? | 2026-08-03 | 8 |
-| 015 | Por que 11-16 são sdrucciole mas 17-19 são piane? | 2026-08-03 | 8 |
-| 028 | Conjugue MANGIARE pra: tu, voi, loro | 2026-08-03 | 4 |
-| 029 | Por que CANTARE para "io" é "canto" e nao "cantono"? | 2026-08-03 | 3 |
-| 030 | Plural de palavras terminadas em -O (ex: libro)? | 2026-08-03 | 7 |
-| 031 | Plural de palavras terminadas em -A (ex: casa)? | 2026-08-03 | 7 |
-| 032 | Plural de palavras terminadas em -E (ex: fiore, notte) — muda com o genero? | 2026-08-03 | 7 |
-| 036 | Artigo definido feminino singular — regra padrao e excecao? | 2026-08-03 | 4 |
-| 037 | Plural do artigo IL? | 2026-08-03 | 7 |
-| 038 | Plural dos artigos LO e L' (masculino)? | 2026-08-03 | 7 |
-| 042 | Artigo indefinido feminino — quando usar UNA vs UN'? | 2026-08-03 | 7 |
-| 050 | Conjugue AVERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-03 | 4 |
-| 054 | Como se diz "o que" em italiano? | 2026-08-03 | 4 |
-| 061 | Adjetivo "bello" (bonito) — as 4 formas concordando com genero/numero? | 2026-08-03 | 4 |
-| 065 | Preposicao "a" — o que indica? | 2026-08-03 | 4 |
-| 066 | Preposicao "di" — o que indica? | 2026-08-03 | 4 |
-| 067 | Preposicao "da" — o que indica? | 2026-08-03 | 4 |
-| 074 | Regra de quando a consoante do artigo dobra com "a"? | 2026-08-03 | 4 |
-| 084 | Terminacoes do padrao simples -IRE (ex: dormire) pra io, tu, lui/lei, noi, voi, loro? | 2026-08-03 | 3 |
-| 087 | Conjugue ANDARE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-03 | 3 |
-| 088 | Conjugue FARE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-03 | 3 |
-| 089 | Conjugue POTERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-03 | 3 |
-| 090 | Conjugue VOLERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-03 | 1 |
-| 092 | Conjugue VENIRE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-03 | 3 |
-| 096 | Quais adjetivos comuns costumam vir ANTES do substantivo? | 2026-08-03 | 1 |
-| 097 | Existe algum adjetivo que MUDA DE SIGNIFICADO conforme vem antes ou depois do substantivo? | 2026-08-03 | 1 |
-| 098 | Quais sao as 4 formas do possessivo "meu" (mio)? | 2026-08-03 | 1 |
-| 104 | Como se nega "Vedo una persona" dizendo que nao ve NINGUEM? | 2026-08-03 | 1 |
-| 109 | Diga os dias da semana em italiano (segunda a domingo) | 2026-08-03 | 1 |
-| 110 | Diga os 12 meses em italiano | 2026-08-03 | 0 |
-| 111 | Como pergunta "Que horas sao?" em italiano? | 2026-08-03 | 1 |
+| 090 | Conjugue VOLERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-04 | 1 |
+| 096 | Quais adjetivos comuns costumam vir ANTES do substantivo? | 2026-08-04 | 1 |
+| 109 | Diga os dias da semana em italiano (segunda a domingo) | 2026-08-04 | 1 |
+| 110 | Diga os 12 meses em italiano | 2026-08-04 | 1 |
 | 001 | Regra: C antes de E/I soa como o quê? | 2026-08-05 | 9 |
 | 002 | Regra: G antes de E/I soa como o quê? | 2026-08-05 | 9 |
 | 003 | Como soam GLI e GN em italiano? | 2026-08-05 | 9 |
@@ -64,6 +37,9 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 060 | "Dove e" quase sempre contrai pra que forma na fala natural? | 2026-08-06 | 7 |
 | 063 | Quando o destino de "ir" e uma PESSOA (nao lugar), qual preposicao usar? | 2026-08-06 | 4 |
 | 064 | Pronomes depois de preposição: io/tu viram o quê? | 2026-08-06 | 7 |
+| 097 | Existe algum adjetivo que MUDA DE SIGNIFICADO conforme vem antes ou depois do substantivo? | 2026-08-06 | 3 |
+| 098 | Quais sao as 4 formas do possessivo "meu" (mio)? | 2026-08-06 | 3 |
+| 104 | Como se nega "Vedo una pessoa" dizendo que nao ve NINGUEM? | 2026-08-06 | 3 |
 | 068 | Preposição "in" — o que indica? | 2026-08-06 | 7 |
 | 069 | Preposição "con" — o que indica? | 2026-08-06 | 7 |
 | 070 | Preposição "su" — o que indica? | 2026-08-06 | 7 |
@@ -83,11 +59,12 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 100 | Quando o artigo SOME antes do possessivo (excecao)? | 2026-08-06 | 4 |
 | 101 | O possessivo "loro" flexiona por genero/numero? E o artigo antes dele? | 2026-08-06 | 4 |
 | 102 | Como se nega um verbo em italiano (ex: Io parlo)? | 2026-08-06 | 4 |
-| 103 | Complete: "Io non ho _____ da fare" | 2026-08-06 | 4 |
+| 103 | Complete: "Io non ho _____ da fazer" | 2026-08-06 | 4 |
 | 105 | Como se faz uma pergunta sim/nao em italiano? | 2026-08-06 | 4 |
 | 106 | Qual e a diferenca principal entre Yes/No questions e Wh-questions em italiano? | 2026-08-06 | 4 |
 | 107 | Como pergunta "Onde voce mora?" em italiano? | 2026-08-06 | 4 |
 | 108 | Complete: "_____ conosci a Roma?" | 2026-08-06 | 4 |
+| 111 | Como pergunta "Que horas sao?" em italiano? | 2026-08-06 | 1 |
 | 112 | Como diz "Sao 3 horas da tarde" em italiano? | 2026-08-06 | 4 |
 | 043 | Por que o masculino tem UNO mas o feminino nao tem equivalente? | 2026-08-07 | 5 |
 | 048 | Por que "sono" nao causa confusao entre "io" e "loro"? | 2026-08-07 | 8 |
@@ -95,6 +72,7 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 014 | Como se diz 20 em italiano? | 2026-08-08 | 12 |
 | 023 | Gênero de "chiave" (chave) e "fiore" (flor)? | 2026-08-08 | 12 |
 | 024 | Gênero de "notte" (noite), "pane" (pão) e "stacao" (estação)? | 2026-08-08 | 12 |
+| 028 | Conjugue MANGIARE pra: tu, voi, loro | 2026-08-08 | 5 |
 | 049 | Com essere + adjetivo, o adjetivo concorda em que com o sujeito? | 2026-08-08 | 8 |
 | 059 | Como se diz "por que / porque" em italiano? | 2026-08-08 | 9 |
 | 012 | Padrão de 11 a 16 em italiano? | 2026-08-09 | 9 |

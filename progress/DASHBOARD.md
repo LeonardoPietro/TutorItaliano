@@ -1,7 +1,7 @@
 # 📊 Italian Progress Dashboard
 
 **Learner started:** 2026-07-21 · **Goal:** Travel-conversational Italian · **Budget:** 3–5 hrs/week
-**Sessions:** 24 · **Study minutes:** 720 · **Streak:** 1 dia (perdeu 2026-08-01)
+**Sessions:** 25 · **Study minutes:** 780 · **Streak:** 2 dias
 
 ## Overall roadmap
 
@@ -21,27 +21,20 @@
 | 11 | Fluency & Expert Polish | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/7 |
 
 ## Flashcards
-Total: 112 · Due amanhã (2026-08-03): 31 · Overdue agora: 0
-**Consolidação:** 99/112 firmes (88.4%) — salto de +14 nesta sessão (Sessão 24)
-**Precisão última revisão:** 81.1% (30/37 na Sessão 24)
+Total: 112 · Due amanhã (2026-08-04): 4 · Overdue agora: 0
+**Consolidação:** 99/112 firmes (88.4%) — sem mudança (1 Again = 1 Good perdido)
+**Precisão última revisão:** 66.7% (20/30 em Sessão 25) — ABAIXO do 80% — consolidação abaixo do ideal
 
 ## Weak spots
 Open: nenhum.
 
-Resolved (mais recentes):
-- ✅ "a" vs "da" destino=pessoa — resolvido Sessão 21
-- ✅ uo/ie diphthong em volere/venire — resolvido Sessão 21
-- ✅ dovere noi/voi (dobbiamo/dovete) — resolvido Sessão 21
-- ✅ Leitura apressada das pessoas pedidas na pergunta — resolvido Sessão 21
-- ✅ Concordância número (c'è vs. ci sono) — resolvido Sessão 18
-- ✅ felice→felici (adjetivo plural) — resolvido Sessão 15
-- ✅ di vs. da (origem/procedência) — resolvido Sessão 15
-
-## Pontos a monitorar (não são weak spots formais)
-- 🔴 **Meses em italiano** (card 110) — Again nesta sessão: março/maio/junho/julho/agosto errados. Volta amanhã.
-- 🟡 **Lista BANGS pré-nominal** (card 096) — Hard: faltou bello/brutto/buono/cattivo/nuovo
-- 🟡 **"che" vs "chi"** (card 111) — Hard: confundiu interrogativos (chi=quem, che=o quê/que)
-- 🟡 **vuole de VOLERE** (card 090) — Hard: disse "vuo" em vez de "vuole"
+Monitorado (não formal):
+- 🔴 **Meses em italiano** (card 110) — Again em Sessão 25: "maio" (português), "ottobro" (italiano errado), "diciembre" (espanhol!) — retorna amanhã
+- 🟡 **VOLERE conjugação** (card 090) — Hard: "vuo" em vez de "vuole"; confundiu com ANDARE ("vanno" em vez de "vogliono") — terceira revisão dessa dificuldade
+- 🟡 **Dias da semana** (card 109) — Hard: "marte" (martedì), "sabatto" (sabato), acentos faltando
+- 🟡 **Adjetivos BANGS** (card 096) — Hard: lista incompleta; faltam bello/brutto/buono/cattivo/nuovo
 
 ## Notes
-Session 24 (2026-08-02): Gate → REVIEW (R2, 31 overdue accumulated desde 07-31). Revisão pura de 37 cartas. 81.1% precisão. Dois cartões com enunciados ambíguos corrigidos (082: "qual pessoa" → "quais pessoas"; 085: "onde aparece o -isc-" → "em quais pessoas aparece o -isc-"). Destaque positivo: dobbiamo e possessivos todos corretos de primeira. 14 cartas novas consolidadas (reps 1→2). Consolidação 84.4%→88.4%. Estágio avançado para 03-travel-survival — conteúdo novo começa assim que a fila de 31 cartas de amanhã for limpa.
+
+Session 25 (2026-08-03): Consolidation Gate → REVIEW (R6, 31 cartões devidos). Revisão pura de 30 cartões (card 111 não alcançado). Precisão 66.7% (20/30 Good, 10 Hard, 1 Again) — abaixo de 81.1% Session 24. Reavaliar e incluir 074 (regra contração artigos) após correção do user. Erros graves: meses (confundiu PT/IT/ES), VOLERE (ditongo), dias/acentos, adjetivos lista incompleta. Card 110 (meses) volta amanhã (Again). Consolidação mantém 88.4% mas precisão caiu — sinal de consolidação instável. **Próxima sessão: Gate deve rodar R2/R3 (REVIEW novamente) — NÃO avançar Stage 03 yet.**
+
