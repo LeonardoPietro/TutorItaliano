@@ -22,7 +22,9 @@
       "Bash(cat l17.txt)",
       "Bash(sed -n '18,28p' deck.md)",
       "Bash(awk -F'|' 'NR>2 && NF>5 {gsub\\(/ /,\"\",$10\\); print $1, $10}' deck.md)",
-      "Bash(awk -F'|' 'NR>2 && NF>=13 {gsub\\(/^ +| +$/,\"\",$2\\); gsub\\(/^ +| +$/,\"\",$11\\); gsub\\(/^ +| +$/,\"\",$8\\); print $2, $11, $8}' deck.md)"
+      "Bash(awk -F'|' 'NR>2 && NF>=13 {gsub\\(/^ +| +$/,\"\",$2\\); gsub\\(/^ +| +$/,\"\",$11\\); gsub\\(/^ +| +$/,\"\",$8\\); print $2, $11, $8}' deck.md)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }

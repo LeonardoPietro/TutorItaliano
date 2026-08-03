@@ -4,10 +4,6 @@ Sorted by due date ascending. Regenerated at the end of every session.
 
 | id | front | due | interval(d) |
 |----|-------|-----|-------------|
-| 090 | Conjugue VOLERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-04 | 1 |
-| 096 | Quais adjetivos comuns costumam vir ANTES do substantivo? | 2026-08-04 | 1 |
-| 109 | Diga os dias da semana em italiano (segunda a domingo) | 2026-08-04 | 1 |
-| 110 | Diga os 12 meses em italiano | 2026-08-04 | 1 |
 | 001 | Regra: C antes de E/I soa como o quê? | 2026-08-05 | 9 |
 | 002 | Regra: G antes de E/I soa como o quê? | 2026-08-05 | 9 |
 | 003 | Como soam GLI e GN em italiano? | 2026-08-05 | 9 |
@@ -18,6 +14,11 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 040 | Artigo indefinido masculino — quando usar UN vs UNO? | 2026-08-05 | 6 |
 | 047 | Conjugue ESSERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-05 | 6 |
 | 082 | Quais sao as pessoas com MESMA terminacao nas duas familias (-ARE e -ERE)? | 2026-08-05 | 3 |
+| 096 | Quais adjetivos comuns costumam vir ANTES do substantivo? | 2026-08-05 | 1 |
+| 097 | Existe algum adjetivo que MUDA DE SIGNIFICADO conforme vem antes ou depois do substantivo? | 2026-08-06 | 3 |
+| 098 | Quais sao as 4 formas do possessivo "meu" (mio)? | 2026-08-06 | 3 |
+| 104 | Como se nega "Vedo uma pessoa" dizendo que nao ve NINGUEM? | 2026-08-06 | 3 |
+| 110 | Diga os 12 meses em italiano | 2026-08-05 | 1 |
 | 010 | Par mínimo: diferença entre "ancora" e "àncora"? | 2026-08-06 | 4 |
 | 011 | Diga os números de 0 a 10 em italiano | 2026-08-06 | 7 |
 | 027 | Conjugue PARLARE pra: io, tu, lui, noi | 2026-08-06 | 7 |
@@ -37,9 +38,6 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 060 | "Dove e" quase sempre contrai pra que forma na fala natural? | 2026-08-06 | 7 |
 | 063 | Quando o destino de "ir" e uma PESSOA (nao lugar), qual preposicao usar? | 2026-08-06 | 4 |
 | 064 | Pronomes depois de preposição: io/tu viram o quê? | 2026-08-06 | 7 |
-| 097 | Existe algum adjetivo que MUDA DE SIGNIFICADO conforme vem antes ou depois do substantivo? | 2026-08-06 | 3 |
-| 098 | Quais sao as 4 formas do possessivo "meu" (mio)? | 2026-08-06 | 3 |
-| 104 | Como se nega "Vedo una pessoa" dizendo que nao ve NINGUEM? | 2026-08-06 | 3 |
 | 068 | Preposição "in" — o que indica? | 2026-08-06 | 7 |
 | 069 | Preposição "con" — o que indica? | 2026-08-06 | 7 |
 | 070 | Preposição "su" — o que indica? | 2026-08-06 | 7 |
@@ -93,3 +91,5 @@ Sorted by due date ascending. Regenerated at the end of every session.
 | 025 | Processo pra conjugar um verbo -ARE: qual é o primeiro passo? | 2026-08-19 | 17 |
 | 039 | Plural dos artigos LA e L' (feminino)? | 2026-08-19 | 17 |
 | 018 | Diferença de uso entre "ciao" e "arrivederci"? | 2026-09-07 | 39 |
+| 090 | Conjugue VOLERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-06 | 2 |
+| 109 | Diga os dias da semana em italiano (segunda a domingo) | 2026-08-07 | 3 |
