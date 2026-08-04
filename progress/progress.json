@@ -13,22 +13,22 @@
                        "notebook_title":  "Italian — Tutor"
                    },
     "stats":  {
-                  "sessions":  26,
-                  "study_minutes":  800,
+                  "sessions":  27,
+                  "study_minutes":  845,
                   "concepts_mastered":  36,
-                  "flashcards_total":  112,
-                  "flashcards_due":  4,
+                  "flashcards_total":  111,
+                  "flashcards_due":  7,
                   "exercises_solved":  55,
                   "quizzes_taken":  3,
                   "feynman_attempts":  15,
-                  "streak_days":  3,
-                  "last_session_date":  "2026-08-03"
+                  "streak_days":  4,
+                  "last_session_date":  "2026-08-04"
               },
     "review_tracking":  {
-                            "last_review_date":  "2026-08-03",
-                            "last_review_accuracy":  0.75,
-                            "cards_consolidated":  99,
-                            "consolidation_ratio":  0.884
+                            "last_review_date":  "2026-08-04",
+                            "last_review_accuracy":  0.80,
+                            "cards_consolidated":  100,
+                            "consolidation_ratio":  0.901
                         },
     "stages":  [
                    {
