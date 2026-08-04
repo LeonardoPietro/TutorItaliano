@@ -15,7 +15,7 @@ Atualizado em 2026-07-30 após primeira sessão de revisão (50/50 cartas, 44% a
 | T003 | atraso | il ritardo | aeroporto | 2026-07-30 | 2026-07-31 | 1 | 2.15 | 0 | 0 |
 | T004 | bagagem | il bagaglio | aeroporto | 2026-07-30 | 2026-07-31 | 1 | 2.30 | 1 | 0 |
 | T005 | alfândega | la dogana | aeroporto | 2026-07-30 | 2026-07-31 | 1 | 2.30 | 1 | 0 |
-| T006 | portão (de embarque) | l'uscita | aeroporto | 2026-07-30 | 2026-07-31 | 1 | 2.15 | 0 | 0 |
+| T006 | portão (de embarque) | l'uscita d'imbarco (na fala real: il gate) | aeroporto | 2026-07-30 | 2026-07-31 | 1 | 2.15 | 0 | 0 |
 | T007 | mala | la valigia | aeroporto | 2026-07-30 | 2026-07-31 | 0 | 2.10 | 0 | 1 |
 | T008 | voo | il volo | aeroporto | 2026-07-30 | 2026-07-31 | 1 | 2.15 | 0 | 0 |
 | T009 | reserva | la prenotazione | hotel | 2026-07-30 | 2026-07-31 | 0 | 2.10 | 0 | 1 |

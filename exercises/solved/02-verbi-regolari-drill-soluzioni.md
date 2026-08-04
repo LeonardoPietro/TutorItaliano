@@ -6,7 +6,7 @@ Corresponde a `exercises/02-verbi-regolari-drill.md`. Numeração conforme o arq
 
 ## Família -ARE
 
-**1. PARLARE:** 1. parlano 2. parli 3. parliamo 4. Lei parla con il cameriere. 5. Io parlo un po' di italiano. 6. Voi parlate troppo veloce! 7. Marco parla tre lingue. 8. Lui non parla molto in pubblico. 9. Loro non parlano mai di politica.
+**1. PARLARE:** 1. parlano 2. parli 3. parliamo 4. Lei parla con il cameriere. 5. Io parlo un po' di italiano. 6. Voi parlate troppo velocemente! 7. Marco parla tre lingue. 8. Lui non parla molto in pubblico. 9. Loro non parlano mai di politica.
 
 **2. ARRIVARE:** 10. arrivo 11. arrivano 12. arrivate 13. Lei arriva a Roma domani. 14. Tu arrivi sempre in ritardo! 15. Noi arriviamo stanchi dopo il viaggio. 16. Io arrivo prima di lui. 17. Loro arrivano direttamente in centro. 18. Voi arrivate in tempo per la cena?
 
@@ -34,17 +34,17 @@ Corresponde a `exercises/02-verbi-regolari-drill.md`. Numeração conforme o arq
 
 **12. VEDERE:** 100. vedono 101. vedi 102. vediamo 103. Tu vedi quel film stasera? 104. Io vedo il Colosseo per la prima volta. 105. Loro vedono il tramonto dalla spiaggia. 106. Lei vede i suoi amici ogni weekend. 107. Noi vediamo Roma da questa finestra. 108. Voi vedete bene da lì?
 
-**13. CREDERE:** 109. credo 110. credono 111. credi 112. Noi crediamo che andrà bene. 113. Tu credi a lui? 114. Lei non crede a questo. 115. Io credo in questa idea. 116. Loro non credono alle previsioni del tempo. 117. Voi credete a lui?
+**13. CREDERE:** 109. credo 110. credono 111. credi 112. Noi crediamo a questa storia. 113. Tu credi a lui? 114. Lei non crede a questo. 115. Io credo in questa idea. 116. Loro non credono alle previsioni del tempo. 117. Voi credete a lui?
 
 **14. CHIUDERE:** 118. chiudono 119. chiudi 120. chiudiamo 121. Tu chiudi la finestra? 122. Loro chiudono il ristorante la domenica. 123. Io chiudo la valigia adesso. 124. Lei chiude la porta piano. 125. Noi chiudiamo le valigie prima di partire. 126. Voi chiudete il negozio alle otto?
 
 **15. RISPONDERE:** 127. rispondo 128. rispondono 129. rispondete 130. Noi rispondiamo all'email domani. 131. Tu rispondi a questa domanda? 132. Lei risponde velocemente. 133. Io rispondo subito al messaggio. 134. Loro rispondono sempre in italiano. 135. Lui risponde al professore.
 
-**16. METTERE:** 136. metto 137. mettono 138. metti 139. Noi mettiamo le valigie in camera. 140. Tu metti il cappotto? 141. Loro mettono tutto in ordine. 142. Io metto le valigie in macchina. 143. Lei mette la tavola per cena. 144. Voi mettete le scarpe qui?
+**16. METTERE:** 136. metto 137. mettono 138. metti 139. Noi mettiamo le valigie in camera. 140. Tu metti il cappotto? 141. Loro mettono tutto in ordine. 142. Io metto le valigie in macchina. 143. Lei mette le chiavi sul tavolo. 144. Voi mettete le scarpe qui?
 
 **17. PERDERE:** 145. perdo 146. perdono 147. perdiamo 148. Tu perdi la pazienza facilmente? 149. Lei perde le chiavi ogni settimana. 150. Noi perdiamo la coincidenza a Milano. 151. Io perdo sempre le chiavi. 152. Loro perdono il treno per un minuto. 153. Lui perde la pazienza a volte.
 
-**18. VIVERE:** 154. vivo 155. vivono 156. vivi 157. Noi viviamo vicino al mercato. 158. Tu vivi qui da molto tempo? 159. Lui vive in Italia da un anno. 160. Io vivo vicino alla stazione. 161. Loro vivono vicino alla stazione anche. 162. Voi vivete in centro?
+**18. VIVERE:** 154. vivo 155. vivono 156. vivi 157. Noi viviamo vicino al mercato. 158. Tu vivi qui da molto tempo? 159. Lui vive in Italia da un anno. 160. Io vivo vicino alla stazione. 161. Anche loro vivono vicino alla stazione. 162. Voi vivete in centro?
 
 **19. RIPETERE:** 163. ripeto 164. ripetono 165. ripetete 166. Tu ripeti, per favore? 167. Noi ripetiamo l'esercizio due volte. 168. Lei ripete sempre la stessa cosa. 169. Io ripeto la domanda più lentamente. 170. Loro ripetono le parole nuove ogni giorno. 171. Lui ripete lo stesso errore.
 
@@ -58,11 +58,11 @@ Corresponde a `exercises/02-verbi-regolari-drill.md`. Numeração conforme o arq
 
 **22. PARTIRE:** 190. partono 191. parti 192. partiamo 193. Tu parti oggi o domani? 194. Io parto domani mattina presto. 195. Loro partono insieme per Roma. 196. Lei parte alle sette dalla stazione. 197. Noi partiamo alle sette dalla stazione. 198. Voi partite presto o tardi?
 
-**23. SENTIRE:** 199. sento 200. sentono 201. sentite 202. Tu senti fame adesso? 203. Noi sentiamo il treno arrivare. 204. Lei sente freddo oggi. 205. Io sento freddo stasera. 206. Loro sentono la musica dalla strada. 207. Lui sente nostalgia di casa.
+**23. SENTIRE:** 199. sento 200. sentono 201. sentite 202. Tu senti il rumore della strada? 203. Noi sentiamo il treno arrivare. 204. Lei sente freddo oggi. 205. Io sento freddo stasera. 206. Loro sentono la musica dalla strada. 207. Lui sente nostalgia di casa.
 
 **24. APRIRE:** 208. apro 209. aprono 210. apri 211. Loro aprono il museo alle dieci. 212. Tu apri la porta, per favore? 213. Noi apriamo la finestra. 214. Io apro la finestra, fa caldo. 215. Lei apre il negozio alle nove. 216. Voi aprite la valigia qui?
 
-**25. SEGUIRE:** 217. seguo 218. seguono 219. seguiamo 220. Tu segui la guida? 221. Lei segue le indicazioni della mappa. 222. Noi seguiamo le indicazioni fino alla stazione. 223. Io seguo le indicazioni sulla mappa. 224. Loro seguono la stessa strada ogni giorno. 225. Voi seguite la guida turistica?
+**25. SEGUIRE:** 217. seguo 218. seguono 219. seguiamo 220. Tu segui la guida? 221. Lei segue le indicazioni della mappa. 222. Noi seguiamo i cartelli fino alla stazione. 223. Io seguo le indicazioni sulla mappa. 224. Loro seguono la stessa strada ogni giorno. 225. Voi seguite la guida turistica?
 
 **26. SERVIRE:** 226. servo 227. servono 228. servite 229. Tu servi il vino? 230. Noi serviamo la cena alle otto. 231. Lui serve solo piatti tipici. 232. Io servo il caffè agli ospiti. 233. Loro servono solo piatti tipici. 234. Lei serve il vino stasera.
 

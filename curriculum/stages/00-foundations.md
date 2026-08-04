@@ -1,7 +1,7 @@
 # Stage 00 — Foundations
 
 **Theme:** Sounds, alphabet, gender/number, articles, essere & avere.
-**Status:** not_started
+**Status:** complete (12/12 — fechado na Sessão 13, 2026-07-24)
 
 ## Objectives
 Give the learner the raw building blocks — how Italian sounds, how nouns
@@ -9,14 +9,14 @@ change shape by gender/number, and the two most-used verbs — so every later
 stage has something to hang new grammar on.
 
 ## Topic checklist
-- [ ] Italian alphabet & pronunciation rules (soft/hard c & g, gli, gn, sc, double consonants)
-- [ ] Word stress and accents
-- [ ] Numbers 0–20
-- [ ] Greetings & courtesy expressions *(already partly known: buongiorno, per favore — confirm, don't re-teach from zero)*
-- [ ] Noun gender (masculine/feminine) and typical endings
-- [ ] Singular → plural patterns
-- [ ] Definite articles: il, lo, la, l', i, gli, le
-- [ ] Indefinite articles: un, uno, una, un'
+- [x] Italian alphabet & pronunciation rules (soft/hard c & g, gli, gn, sc, double consonants)
+- [x] Word stress and accents
+- [x] Numbers 0–20
+- [x] Greetings & courtesy expressions *(already partly known: buongiorno, per favore — confirm, don't re-teach from zero)*
+- [x] Noun gender (masculine/feminine) and typical endings
+- [x] Singular → plural patterns
+- [x] Definite articles: il, lo, la, l', i, gli, le
+- [x] Indefinite articles: un, uno, una, un'
 - [x] Subject pronouns: io, tu, lui/lei, noi, voi, loro
 - [x] Present tense of **essere** (to be)
 - [x] Present tense of **avere** (to have)

@@ -21,7 +21,7 @@ direction, means — before moving into full present-tense verb conjugation
 
 ## Milestone
 Describe the location of 5 objects/places using at least 4 different
-articulated prepositions, unaided (e.g., "Il libro è sulla tavola," "Vengo
+articulated prepositions, unaided (e.g., "Il libro è sul tavolo," "Vengo
 dall'Italia").
 
 ## Definition of done

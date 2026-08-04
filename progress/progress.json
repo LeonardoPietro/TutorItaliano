@@ -1,131 +1,137 @@
 {
-    "schema_version":  1,
-    "learner":  {
-                    "goal":  "Travel-conversational Italian — confidently handle everyday situations (ordering food, directions, small talk, hotels)",
-                    "background":  "True beginner for grammar. Knows a handful of fixed survival phrases from apps/travel (buongiorno, vorrei un caffè, sono stanco). Made a correctly-shaped but low-confidence passato prossimo attempt (ho mangiato). No working knowledge of gender/article agreement, conditional, or subjunctive (confirmed via mistranslated hypothetical: \u0027ci io ho tempo, io viaggerò per Italia\u0027 instead of \u0027Se avessi tempo, viaggerei in Italia\u0027).",
-                    "weekly_time_budget":  "3-5 hours",
-                    "started":  "2026-07-21"
-                },
-    "topic":  "Italian",
-    "current_stage":  "03-travel-survival",
-    "notebooklm":  {
-                       "enabled":  true,
-                       "notebook_title":  "Italian — Tutor"
-                   },
-    "stats":  {
-                  "sessions":  27,
-                  "study_minutes":  845,
-                  "concepts_mastered":  36,
-                  "flashcards_total":  111,
-                  "flashcards_due":  7,
-                  "exercises_solved":  55,
-                  "quizzes_taken":  3,
-                  "feynman_attempts":  15,
-                  "streak_days":  4,
-                  "last_session_date":  "2026-08-04"
-              },
-    "review_tracking":  {
-                            "last_review_date":  "2026-08-04",
-                            "last_review_accuracy":  0.80,
-                            "cards_consolidated":  100,
-                            "consolidation_ratio":  0.901
-                        },
-    "stages":  [
-                   {
-                       "id":  "00-foundations",
-                       "title":  "Foundations",
-                       "status":  "complete",
-                       "mastery":  1.0,
-                       "topics_total":  12,
-                       "topics_done":  12
-                   },
-                   {
-                       "id":  "01-prepositions",
-                       "title":  "Prepositions",
-                       "status":  "complete",
-                       "mastery":  1.0,
-                       "topics_total":  8,
-                       "topics_done":  8
-                   },
-                   {
-                       "id":  "02-present-tense-basics",
-                       "title":  "Present-Tense Basics",
-                       "status":  "complete",
-                       "mastery":  1.0,
-                       "topics_total":  9,
-                       "topics_done":  9
-                   },
-                   {
-                       "id":  "03-travel-survival",
-                       "title":  "Travel Survival",
-                       "status":  "in_progress",
-                       "mastery":  0.0,
-                       "topics_total":  10,
-                       "topics_done":  0
-                   },
-                   {
-                       "id":  "04-past-i-passato-prossimo",
-                       "title":  "Past I — Passato Prossimo",
-                       "status":  "not_started",
-                       "mastery":  0.0,
-                       "topics_total":  8,
-                       "topics_done":  0
-                   },
-                   {
-                       "id":  "05-past-ii-imperfetto-description",
-                       "title":  "Past II — Imperfetto \u0026 Description",
-                       "status":  "not_started",
-                       "mastery":  0.0,
-                       "topics_total":  8,
-                       "topics_done":  0
-                   },
-                   {
-                       "id":  "06-pronouns-connected-speech",
-                       "title":  "Pronouns \u0026 Connected Speech",
-                       "status":  "not_started",
-                       "mastery":  0.0,
-                       "topics_total":  8,
-                       "topics_done":  0
-                   },
-                   {
-                       "id":  "07-future-conditional",
-                       "title":  "Future \u0026 Conditional",
-                       "status":  "not_started",
-                       "mastery":  0.0,
-                       "topics_total":  8,
-                       "topics_done":  0
-                   },
-                   {
-                       "id":  "08-subjunctive-i",
-                       "title":  "Subjunctive I",
-                       "status":  "not_started",
-                       "mastery":  0.0,
-                       "topics_total":  7,
-                       "topics_done":  0
-                   },
-                   {
-                       "id":  "09-subjunctive-ii-hypotheticals",
-                       "title":  "Subjunctive II \u0026 Hypotheticals",
-                       "status":  "not_started",
-                       "mastery":  0.0,
-                       "topics_total":  7,
-                       "topics_done":  0
-                   },
-                   {
-                       "id":  "10-advanced-connectors-register",
-                       "title":  "Advanced Connectors \u0026 Register",
-                       "status":  "not_started",
-                       "mastery":  0.0,
-                       "topics_total":  7,
-                       "topics_done":  0
-                   },
-                   {
-                       "id":  "11-fluency-expert-polish",
-                       "title":  "Fluency \u0026 Expert Polish",
-                       "status":  "not_started",
-                       "mastery":  0.0,
-                       "topics_total":  7,
-                       "topics_done":  0
-                   }
-               ]
+    "schema_version": 1,
+    "learner": {
+        "goal": "Travel-conversational Italian — confidently handle everyday situations (ordering food, directions, small talk, hotels)",
+        "background": "True beginner for grammar. Knows a handful of fixed survival phrases from apps/travel (buongiorno, vorrei un caffè, sono stanco). Made a correctly-shaped but low-confidence passato prossimo attempt (ho mangiato). No working knowledge of gender/article agreement, conditional, or subjunctive (confirmed via mistranslated hypothetical: 'ci io ho tempo, io viaggerò per Italia' instead of 'Se avessi tempo, viaggerei in Italia').",
+        "weekly_time_budget": "3-5 hours",
+        "started": "2026-07-21"
+    },
+    "topic": "Italian",
+    "current_stage": "03-travel-survival",
+    "notebooklm": {
+        "enabled": false,
+        "notebook_title": "Italian — Tutor",
+        "note": "Marcado enabled=true sem evidencia de uso (media/ vazio, nenhum log de criacao). Rebaixado para false na auditoria de 2026-08-04 ate a configuracao ser confirmada."
+    },
+    "stats": {
+        "sessions": 28,
+        "study_minutes": 845,
+        "concepts_mastered": 36,
+        "flashcards_total": 114,
+        "flashcards_due": 1,
+        "exercises_solved": 55,
+        "quizzes_taken": 3,
+        "feynman_attempts": 15,
+        "streak_days": 4,
+        "last_session_date": "2026-08-04"
+    },
+    "review_tracking": {
+        "last_review_date": "2026-08-04",
+        "last_review_accuracy": 0.6,
+        "cards_consolidated": 101,
+        "consolidation_ratio": 0.886
+    },
+    "stages": [
+        {
+            "id": "00-foundations",
+            "title": "Foundations",
+            "status": "complete",
+            "mastery": 1.0,
+            "topics_total": 12,
+            "topics_done": 12
+        },
+        {
+            "id": "01-prepositions",
+            "title": "Prepositions",
+            "status": "complete",
+            "mastery": 1.0,
+            "topics_total": 8,
+            "topics_done": 8
+        },
+        {
+            "id": "02-present-tense-basics",
+            "title": "Present-Tense Basics",
+            "status": "complete",
+            "mastery": 1.0,
+            "topics_total": 9,
+            "topics_done": 9
+        },
+        {
+            "id": "03-travel-survival",
+            "title": "Travel Survival",
+            "status": "in_progress",
+            "mastery": 0.0,
+            "topics_total": 10,
+            "topics_done": 0
+        },
+        {
+            "id": "04-past-i-passato-prossimo",
+            "title": "Past I — Passato Prossimo",
+            "status": "not_started",
+            "mastery": 0.0,
+            "topics_total": 8,
+            "topics_done": 0
+        },
+        {
+            "id": "05-past-ii-imperfetto-description",
+            "title": "Past II — Imperfetto & Description",
+            "status": "not_started",
+            "mastery": 0.0,
+            "topics_total": 8,
+            "topics_done": 0
+        },
+        {
+            "id": "06-pronouns-connected-speech",
+            "title": "Pronouns & Connected Speech",
+            "status": "not_started",
+            "mastery": 0.0,
+            "topics_total": 8,
+            "topics_done": 0
+        },
+        {
+            "id": "07-future-conditional",
+            "title": "Future & Conditional",
+            "status": "not_started",
+            "mastery": 0.0,
+            "topics_total": 8,
+            "topics_done": 0
+        },
+        {
+            "id": "08-subjunctive-i",
+            "title": "Subjunctive I",
+            "status": "not_started",
+            "mastery": 0.0,
+            "topics_total": 7,
+            "topics_done": 0
+        },
+        {
+            "id": "09-subjunctive-ii-hypotheticals",
+            "title": "Subjunctive II & Hypotheticals",
+            "status": "not_started",
+            "mastery": 0.0,
+            "topics_total": 7,
+            "topics_done": 0
+        },
+        {
+            "id": "10-advanced-connectors-register",
+            "title": "Advanced Connectors & Register",
+            "status": "not_started",
+            "mastery": 0.0,
+            "topics_total": 7,
+            "topics_done": 0
+        },
+        {
+            "id": "11-fluency-expert-polish",
+            "title": "Fluency & Expert Polish",
+            "status": "not_started",
+            "mastery": 0.0,
+            "topics_total": 7,
+            "topics_done": 0
+        }
+    ],
+    "audit": {
+        "last_full_audit": "2026-08-04",
+        "report": "review/ERRATA-2026-08-04.md",
+        "notes": "Acuracias das Sessoes 5, 26 e 27 recalculadas (80%, 25%, 60%). last_review_accuracy reflete o valor corrigido da Sessao 27."
+    }
 }

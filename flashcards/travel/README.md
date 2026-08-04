@@ -17,7 +17,7 @@ isso, com mais profundidade, no Stage 03 quando você chegar lá).
   etc.) — é puramente prático/situacional, não uma medida de mastery do
   curriculo.
 - Revise com "review viagem" ou "flashcards viagem" — eu leio
-  `travel-review-queue.md`, aplico as notas (Again/Hard/Good/Easy), e
+  `travel/review-queue.md`, aplico as notas (Again/Hard/Good/Easy), e
   atualizo os dois arquivos.
 - Categorias (tag `topic`): aeroporto, hotel, restaurante, direcoes,
   transporte, compras, emergencia, numeros-precos, situacoes.

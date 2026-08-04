@@ -1,8 +1,15 @@
-# 🌳 Italian Skill Tree — Session 25 (2026-08-03)
+# 🌳 Italian Skill Tree — Sessão 28 (2026-08-04, pós-auditoria)
 
-**Overall Mastery: 23/80 topics taught** (29% of Stage 00–02 complete; Stage 03+ not started)  
-**Card Consolidation: 88.4%** (99/112 cards with reps≥2)  
-**Last Review Accuracy: 66.7%** ↙ (was 81.1% — consolidation concern)
+**Domínio geral: 29/99 tópicos ensinados** (Stages 00–02 completas; Stage 03 aberta, 0/10)
+**Consolidação: 88,6%** (101/114 cartões com reps≥2)
+**Precisão da última revisão: 60%** (Sessão 27, valor corrigido — o log original dizia 80%)
+
+> ⚠️ **Correções de 2026-08-04:** o cabeçalho anterior dizia "23/80 tópicos", número
+> que não batia nem com a própria tabela abaixo (29/29 nas 3 primeiras stages) nem
+> com o total real do roadmap (99). Notas de conteúdo desta árvore que ficaram
+> desatualizadas pela auditoria: **dias da semana não levam artigo obrigatório**
+> (o artigo marca hábito) e **"bello" antes do substantivo** tem formas próprias
+> (bel/bello/bell'/bei/begli). Lista completa em `review/ERRATA-2026-08-04.md`.
 
 ---
 

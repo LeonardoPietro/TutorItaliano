@@ -160,7 +160,7 @@ verbo, a prática das 6 pessoas fica distribuída ao longo dos 10 verbos.
 109. Io _______ in questa idea. (io)
 110. Loro non _______ alle previsioni del tempo. (loro)
 111. Tu _______ a quello che dice? (tu)
-112. Nós acreditamos que vai dar certo.
+112. Nós acreditamos nessa história.
 113. Você acredita nele?
 114. Ela não acredita nisso.
 115. Eu acredito nessa ideia.
@@ -197,7 +197,7 @@ verbo, a prática das 6 pessoas fica distribuída ao longo dos 10 verbos.
 140. Você coloca o casaco?
 141. Eles colocam tudo em ordem.
 142. Eu coloco as malas no carro.
-143. Ela coloca a mesa para o jantar.
+143. Ela coloca as chaves na mesa.
 144. Vocês colocam os sapatos aqui?
 
 ### 17. PERDERE (perder)
@@ -274,7 +274,7 @@ verbo, a prática das 6 pessoas fica distribuída ao longo dos 10 verbos.
 199. Io _______ freddo stasera. (io)
 200. Loro _______ la musica dalla strada. (loro)
 201. Voi _______ il treno arrivare? (voi)
-202. Você sente fome agora?
+202. Você ouve o barulho da rua?
 203. Nós ouvimos o trem chegando.
 204. Ela sente frio hoje.
 205. Eu sinto frio hoje à noite.
@@ -295,7 +295,7 @@ verbo, a prática das 6 pessoas fica distribuída ao longo dos 10 verbos.
 ### 25. SEGUIRE (seguir)
 217. Io _______ le indicazioni sulla mappa. (io)
 218. Loro _______ la stessa strada ogni giorno. (loro)
-219. Noi _______ le placas fino alla stazione. (noi)
+219. Noi _______ i cartelli fino alla stazione. (noi)   *(i cartelli = as placas)*
 220. Você segue o guia?
 221. Ela segue as instruções do mapa.
 222. Nós seguimos as placas até a estação.

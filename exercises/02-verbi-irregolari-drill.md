@@ -3,8 +3,13 @@
 **Estágio:** 02-present-tense-basics
 **Verbos:** ANDARE, FARE, POTERE, VOLERE, DOVERE, VENIRE
 **Como usar:** resolva tudo sem consultar as tabelas. Depois confira em
-`exercises/solved/02-verbi-irregolari-drill-soluzioni.md`. Cada verbo tem 30
-itens: 6 de conjugação pura, 12 de completar frase, 12 de tradução.
+`exercises/solved/02-verbi-irregolari-drill-soluzioni.md`. Cada verbo tem 6 de
+conjugação pura + 12 de completar frase + 10–12 de tradução.
+
+> **Errata (2026-08-04):** a numeração das seções C de FARE, VOLERE e VENIRE
+> reinicia em 31 (em vez de continuar em 19) e traz 10 itens em vez de 12 — a
+> numeração é descontínua de propósito agora, mas **bate com o arquivo de
+> soluções**. Não é erro de conteúdo, só de numeração herdada.
 
 ---
 
@@ -82,7 +87,7 @@ itens: 6 de conjugação pura, 12 de completar frase, 12 de tradução.
 37. Marco faz uma pergunta.
 38. Eu e a Ana fazemos um café.
 39. Você faz muitas fotos de férias?
-40. Eles sempre fazem tarde à noite.
+40. Eles sempre ficam acordados até tarde. *(fare tardi = ficar até tarde/atrasar-se — expressão fixa, não "fazer tarde")*
 
 ---
 

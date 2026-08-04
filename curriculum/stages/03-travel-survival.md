@@ -1,7 +1,7 @@
 # Stage 03 — Travel Survival
 
 **Theme:** Food, directions, shopping, time/dates, transport.
-**Status:** not_started
+**Status:** in_progress (0/10 — estágio corrente, conteúdo ainda não aberto)
 
 ## Objectives
 This is the stage most directly tied to the learner's stated goal

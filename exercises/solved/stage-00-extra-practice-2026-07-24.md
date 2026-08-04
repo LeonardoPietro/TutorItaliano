@@ -13,10 +13,10 @@
 7. "Onde está a chave?" → Dov'è la chiave? ✅ first try
 8. "Eu não tenho tempo" → Non ho tempo. ✅ first try (negation with "non" taught inline, not previously in curriculum until Stage 02 — flagged before use)
 9. "Quem tem a chave?" → Chi ha la chiave (not "hai" — corrected: chi takes 3rd person singular). Needed one hint.
-10. "Há um relógio na mesa" → C'è un orologio sulla tavola. ✅ first try
+10. "Há um relógio na mesa" → C'è un orologio sulla tavola. ✅ first try *(revisão 2026-08-04: o natural é "sul tavolo" — ver item 3 do marco da Stage 01)*
 11. "Você (informal) é brasileiro?" → Sei brasiliano? ✅ first try
 12. "Quantos livros vocês têm?" → Quanti libri avete (not "hai" — corrected: voi takes avete). Needed one hint.
-13. "A mochila não está aqui" → Lo zaino non c'è qui. ✅ first try
+13. "A mochila não está aqui" → Lo zaino non c'è qui. ❌ **corrigido em 2026-08-04**: o certo é **"Lo zaino non è qui"**. C'è/ci sono servem pra introduzir algo novo/indefinido ("c'è uno zaino qui"); com sujeito definido usa-se essere. Foi marcado como correto na época — erro do tutor, não do learner. Virou o card 113.
 14. "Como você está?" → Come stai? ✅ first try — learner used "stare" unprompted (not yet formally taught), correctly and idiomatically. Noted as known vocabulary.
 15. "Duas chaves estão na mesa" → learner used essere ("Due chiavi sono sulla tavola") — grammatically valid but less natural than "Ci sono due chiavi sulla tavola" for indefinite/new information. Noted as a style nuance, not an error.
 16. "Por que você não tem tempo?" → Perché non hai tempo? ✅ first try
