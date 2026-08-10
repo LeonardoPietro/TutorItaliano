@@ -1,8 +1,14 @@
-# 🌳 Italian Skill Tree — Sessão 28 (2026-08-04, pós-auditoria)
+# 🌳 Italian Skill Tree — Sessão 31 (2026-08-10, fila zerada)
 
 **Domínio geral: 29/99 tópicos ensinados** (Stages 00–02 completas; Stage 03 aberta, 0/10)
-**Consolidação: 88,6%** (101/114 cartões com reps≥2)
-**Precisão da última revisão: 60%** (Sessão 27, valor corrigido — o log original dizia 80%)
+**Consolidação: 90,1%** (100/111 cartões com reps≥2)
+**Precisão da última revisão: 91,5%** (Sessão 31 — 43/47, revisão completa dos vencidos)
+
+> **Atualização Sessão 31:** os 47 cartões atrasados foram revisados; "dias
+> da semana" (109) fechado como resolvido. Cards 096/096b/097 (adjetivos
+> BANGS/meaning-shift) foram **removidos do deck** na Sessão 30 a pedido do
+> learner — as linhas abaixo referentes a eles ficam como histórico, não
+> como estado atual.
 
 > ⚠️ **Correções de 2026-08-04:** o cabeçalho anterior dizia "23/80 tópicos", número
 > que não batia nem com a própria tabela abaixo (29/29 nas 3 primeiras stages) nem
@@ -66,7 +72,7 @@
 | Negation: niente/nessuno | 103–104 | ✅ | niente (nada em geral); nessuno (ninguém, people) — vem depois do verbo |
 | Yes/No questions | 105 | ✅ | Mesma ordem + entonação sobe |
 | Wh-questions | 106–108 | ✅ | Interrogativo sobe pro início (Dove abiti?) |
-| Days of week | 109 | ⚠️ | lun/mar/mer/gio/ven/sab/dom com artigo — **CONSOLIDATION FLAG:** acentos faltando; "marte" vs **martedì**; "sabatto" vs **sabato** (Session 25 Hard; due 08-04) |
+| Days of week | 109 | ✅ | lun/mar/mer/gio/ven/sab/dom com artigo — **resolvido Sessão 31 (2026-08-10):** todos os 7 acentos corretos sem apoio |
 | Months of year | 110 | 🔴 | gennaio/febbraio/marzo/aprile/maggio/giugno/luglio/agosto/settembre/ottobre/novembre/dicembre (geralmente SEM artigo) — **CRITICAL FAILURE:** Session 25 Again: confundiu **maio** (PT), **ottobro** (IT erro), **diciembre** (ESPANHOL) — volta 08-04 |
 | Time expressions | 111–112 | ✅ | Che ore sono? Sono le tre del pomeriggio (Le [num] + [periodo]) |
 
@@ -118,15 +124,19 @@ Topics awaiting first teach:
 
 | Metric | Current | Previous | Δ | Assessment |
 |--------|---------|----------|---|------------|
-| Cards consolidated (reps≥2) | 99/112 (88.4%) | 99/112 (88.4%) | → | Stable |
-| Last review accuracy | 66.7% | 81.1% | ↙ -14.4pp | **Concern:** Dip signals fatigue in automaticity |
-| Due tomorrow | 4 | 31 | ↙ | Queue cleared post-review |
-| Streak | 2 days | 1 day | ↗ | Consecutive sessions (08-02, 08-03) |
-| Sessions completed | 25 | 24 | ↗ | On pace (12 days, 25 sessions ≈ 2/day avg) |
+| Cards consolidated (reps≥2, not overdue) | 100/111 (90.1%) | 54/111 (48.6%) | ↗ +41.5pp | Salto por catch-up, não por regressão anterior |
+| Last review accuracy | 91.5% (43/47) | 58.3% (14/24) | ↗ +33.2pp | Recuperação forte após revisão completa |
+| Due tomorrow (2026-08-11) | 17 | — | — | Inclui VOLERE(090)/VENIRE(092), meses(110), perchè(059) — reteste dos pontos observados na S30 |
+| Streak | 2 dias | 1 dia | ↗ | Segunda sessão consecutiva no mesmo dia (08-10) |
+| Sessions completed | 31 | 30 | ↗ | |
 
-**Consolidation Health:** Solid numerically (88.4%), but **accuracy dip from 81→67%** suggests learners hitting automaticity ceiling on:
-1. Conjugation ditongos (uo/ie) still require conscious recall
-2. Memorized lists (months, days, BANGS adjectives) show gaps under time pressure
-3. Irregular verbs need deeper spacing (VOLERE 3 reviews, still Hard)
+**Consolidation Health:** Forte recuperação (48,6%→90,1%) — mas o salto reflete
+cartões que estavam represados por causa do bug de contagem, não novo
+aprendizado. Pontos ainda a confirmar amanhã (2026-08-11): vazamento de
+espanhol (veinte/perchè), -ARE vs -ARE/-ONO em loro (cantare), VOLERE(voi)/
+VENIRE(tu).
 
-**Path forward:** Throttle new material; focus 1–2 review sessions on these three areas, then re-gate. Precision recovery to ≥80% signals readiness for Stage 03 depth.
+**Path forward:** Gate deve indicar LEARN (R7) na próxima sessão — sem
+vencidos, weak spots abertos ou déficit de acurácia/consolidação — mas
+abrir com o warm-up dos 17 cartões de amanhã antes de conteúdo novo da
+Stage 03.

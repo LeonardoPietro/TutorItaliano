@@ -14,22 +14,22 @@
         "note": "Marcado enabled=true sem evidencia de uso (media/ vazio, nenhum log de criacao). Rebaixado para false na auditoria de 2026-08-04 ate a configuracao ser confirmada."
     },
     "stats": {
-        "sessions": 30,
-        "study_minutes": 925,
+        "sessions": 31,
+        "study_minutes": 985,
         "concepts_mastered": 36,
         "flashcards_total": 111,
-        "flashcards_due": 47,
+        "flashcards_due": 0,
         "exercises_solved": 55,
         "quizzes_taken": 3,
         "feynman_attempts": 15,
-        "streak_days": 1,
+        "streak_days": 2,
         "last_session_date": "2026-08-10"
     },
     "review_tracking": {
         "last_review_date": "2026-08-10",
-        "last_review_accuracy": 0.583,
-        "cards_consolidated": 54,
-        "consolidation_ratio": 0.486
+        "last_review_accuracy": 0.915,
+        "cards_consolidated": 100,
+        "consolidation_ratio": 0.901
     },
     "stages": [
         {
@@ -132,6 +132,6 @@
     "audit": {
         "last_full_audit": "2026-08-04",
         "report": "review/ERRATA-2026-08-04.md",
-        "notes": "Acuracias das Sessoes 5, 26 e 27 recalculadas (80%, 25%, 60%). last_review_accuracy reflete o valor corrigido da Sessao 27. Sessao 30 (2026-08-10): erro de contagem da fila corrigido no proprio dia (ver review/CONSOLIDATION-GATE.md) — consolidation_ratio caiu de 86.8% (desatualizado/inflado) para 48.6% (real, 54/111), refletindo que 47 cartoes seguem vencidos."
+        "notes": "Acuracias das Sessoes 5, 26 e 27 recalculadas (80%, 25%, 60%). last_review_accuracy reflete o valor corrigido da Sessao 27. Sessao 30 (2026-08-10): erro de contagem da fila corrigido no proprio dia (ver review/CONSOLIDATION-GATE.md) — consolidation_ratio caiu de 86.8% (desatualizado/inflado) para 48.6% (real, 54/111), refletindo que 47 cartoes seguem vencidos. Sessao 31 (2026-08-10, mesmo dia): os 47 cartoes vencidos foram revisados integralmente — acuracia 91,5% (43/47 first-try Good/Easy), consolidation_ratio subiu para 90,1% (100/111). Fila diaria zerada."
     }
 }

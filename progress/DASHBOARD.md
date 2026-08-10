@@ -1,8 +1,8 @@
 # 📊 Italian Progress Dashboard
 
 **Learner started:** 2026-07-21 · **Goal:** Travel-conversational Italian · **Budget:** 3–5 hrs/week
-**Sessões:** 30 · **Minutos de estudo:** 925 · **Streak:** 1 dia (gap de 5 dias sem sessão, 06–09/08)
-**Última atualização:** 2026-08-10 (Sessão 30 — revisão, correção de contagem)
+**Sessões:** 31 · **Minutos de estudo:** 985 · **Streak:** 2 dias
+**Última atualização:** 2026-08-10 (Sessão 31 — revisão, fila zerada)
 
 ## Overall roadmap
 
@@ -26,11 +26,11 @@
 
 ## Flashcards — deck principal
 Total: **111** (096, 096b, 097 removidos a pedido do learner — Sessão 30).
-**Vencidos hoje (2026-08-10): 47** — backlog real descoberto na Sessão 30 (ver nota abaixo).
-**Consolidação:** 54/111 firmes (**48,6%**) — queda forte em relação ao 86,8% anterior, que
-estava desatualizado/inflado por um erro de contagem da fila, não por regressão real.
-**Precisão da última revisão:** **58,3%** (Sessão 30 — 14/24 corretas de primeira, sobre os
-cartões efetivamente revisados)
+**Vencidos hoje (2026-08-10): 0** — os 47 cartões atrasados foram todos revisados na Sessão 31.
+**Consolidação:** 100/111 firmes (**90,1%**) — salto forte em relação aos 48,6% da Sessão 30,
+porque a maioria dos 47 cartões vencidos já tinha reps≥2 e só estava excluída da métrica por
+estar atrasada.
+**Precisão da última revisão:** **91,5%** (Sessão 31 — 43/47 corretas de primeira)
 
 ## Flashcards — deck de viagem (paralelo)
 Total: **50** · **Todos atrasados desde 2026-07-31** (4 dias)
@@ -47,7 +47,8 @@ Todos os 5 abertos na Sessão 29 foram resolvidos ou fechados na Sessão 30:
 - ✅ "non c'è" com sujeito definido (card 113) — correto sem apoio.
 - ✅ Plural -cia/-gia (card 114) — correto sem apoio, 1ª exposição real.
 
-Novos pontos observados na Sessão 30:
+Pontos observados na Sessão 30 (ainda não retestados — cards 014/059/029/090/092
+vencem em 2026-08-11):
 - 🔴 **Vazamento de espanhol** — "veinte" (card 014) e "perchè" com acento
   errado (card 059). Segunda vez que espanhol aparece nesse contexto
   (dicembre→diciembre também saiu no card 110 antes da correção).
@@ -56,6 +57,10 @@ Novos pontos observados na Sessão 30:
   em vez de "cantano").
 - 🔴 **VOLERE (voi) e VENIRE (tu)** — um erro novo em cada verbo (vogliate→
   volete; veni→vieni), mesmo com o restante das conjugações corretas.
+
+Resolvido na Sessão 31:
+- ✅ **Dias da semana — acentos** (card 109) — os 7 acentos corretos sem
+  apoio, weak spot formal fechado.
 
 ## Notes
 
@@ -111,3 +116,22 @@ vencidos + os 8 que voltam amanhã 11/08; R5: consolidação 48,6% < 67%).
 Prioridade: continuar batendo o backlog de 47 cartões vencidos (lote de
 06/08 e 08/08) antes de qualquer conteúdo novo. Vale reforçar 100% italiano
 sem vazamento de espanhol/português nas próximas revisões.
+
+**Sessão 31 (2026-08-10, mesmo dia) — Revisão dos 47 cartões vencidos.** Os
+47 cartões descobertos na Sessão 30 foram revisados integralmente, um a
+um, em ordem de vencimento (fundamentos → preposições → verbos
+irregulares → adjetivos/possessivos → negação/perguntas → horas → dias da
+semana). Precisão: **91,5% (43/47)** — grande salto sobre os 58,3% da
+Sessão 30. Só 4 cartões precisaram de Hard/Again (045, 058, 112, 107),
+todos recuperados na hora ou na retentativa. Weak spot "dias da semana"
+fechado. Consolidação subiu **48,6%→90,1% (100/111)**. **Fila diária
+zerada** pela primeira vez desde a Sessão 21. Erro de apresentação
+próprio identificado e corrigido: cartão 108 mostrado sem a tradução PT
+que o próprio verso continha — lição para sempre incluir a dica ao
+apresentar fill-in-the-blank.
+
+**Próxima sessão:** Gate deve rodar em **LEARN** (R7 DEFAULT) — sem
+vencidos, sem weak spots abertos, acurácia e consolidação bem acima dos
+limiares — mas com **warm-up dos 17 cartões que vencem em 2026-08-11**
+antes de qualquer conteúdo novo (interleaving). Boa hora para retomar
+Stage 03 (Travel Survival, 0/10) depois do warm-up.

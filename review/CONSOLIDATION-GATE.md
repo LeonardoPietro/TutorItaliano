@@ -27,7 +27,30 @@ R7 DEFAULT    else → LEARN new (warm up with any 1–7 due cards first)
 - Consolidation floor `C`: **0.67** (caps review debt at one-third)
 - Big-due trigger: **8** (≈ one review sitting)
 
-**Current state (end of Session 30, 2026-08-10):**
+**Current state (end of Session 31, 2026-08-10):**
+- Due / overdue: **0 vencidos hoje.** Os 47 cartões descobertos na Sessão
+  30 foram todos revisados nesta sessão, em ordem de vencimento. Próximo
+  lote: 17 cartões vencem 2026-08-11 (inclui reteste de VOLERE/VENIRE,
+  meses, perchè — pontos observados como erro na S30 mas ainda não
+  formalizados como weak spot).
+- Open weak spots: **0** — "dias da semana" (acentos) fechado nesta
+  sessão (7/7 corretos sem apoio).
+- Consolidação: **C = 100/111 = 90,1%** (subiu de 48,6%) — a maior parte
+  dos 47 cartões vencidos já tinha reps≥2, só estava excluída da métrica
+  por estar atrasada; não é aprendizado novo, é destravamento de métrica.
+- Precisão da última revisão: **91,5% (43/47)**, sobre os cartões
+  efetivamente revisados. Só 4 cartões precisaram Hard/Again, todos
+  recuperados na hora ou na retentativa.
+- Erro de processo próprio identificado: cartão 108 (fill-in-the-blank)
+  apresentado sem a tradução PT que o próprio verso continha, gerando uma
+  resposta injusta do learner — corrigido, nota ajustada de Again pra
+  Good. Lição: sempre incluir a dica/tradução entre parênteses ao
+  apresentar esse tipo de cartão.
+- Próxima sessão: **R7 DEFAULT → LEARN new** (sem vencidos, sem weak
+  spots, acurácia e consolidação bem acima dos limiares) — mas abrir com
+  warm-up dos 17 cartões de 2026-08-11 antes de retomar Stage 03 (0/10).
+
+**Prior state (end of Session 30, 2026-08-10):**
 - Due / overdue: **47 ainda vencidos** (lote de 06/08 e 08/08, não tocado) +
   **16 vencendo em 2026-08-11** (8 saíram Again hoje + 8 já agendados).
 - Erro de processo descoberto e corrigido nesta sessão: `review-queue.md`
