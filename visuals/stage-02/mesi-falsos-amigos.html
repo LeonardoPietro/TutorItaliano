@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Meses em Italiano — Falsos Amigos PT/ES</title>
+<style>
+  body {
+    font-family: -apple-system, Segoe UI, Arial, sans-serif;
+    background: #14161a;
+    color: #eee;
+    padding: 24px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  h1 { font-size: 1.3em; color: #fff; }
+  p.sub { color: #aaa; margin-top: -8px; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+  }
+  .card {
+    background: #20242c;
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 12px;
+    text-align: center;
+  }
+  .card.danger { border-color: #e05252; background: #2a1c1c; }
+  .it { font-size: 1.15em; font-weight: bold; color: #fff; }
+  .compare { font-size: 0.8em; color: #999; margin-top: 6px; line-height: 1.4; }
+  .compare .wrong { color: #ff8080; text-decoration: line-through; }
+  .compare .lang { color: #6cc; font-weight: bold; }
+  .flag { font-size: 0.75em; color: #ffb3b3; margin-top: 4px; }
+  .note {
+    margin-top: 26px;
+    background: #20242c;
+    border-left: 4px solid #e05252;
+    padding: 12px 16px;
+    border-radius: 6px;
+    font-size: 0.9em;
+  }
+  .note b { color: #ff8080; }
+</style>
+</head>
+<body>
+  <h1>Os 12 meses — italiano vs. os "vazamentos" mais comuns</h1>
+  <p class="sub">Vermelho = mês onde você já errou antes por causa do português ou do espanhol.</p>
+
+  <div class="grid">
+    <div class="card"><div class="it">gennaio</div><div class="compare"><span class="lang">PT</span> janeiro</div></div>
+    <div class="card"><div class="it">febbraio</div><div class="compare"><span class="lang">PT</span> fevereiro</div></div>
+    <div class="card"><div class="it">marzo</div><div class="compare"><span class="lang">PT</span> março</div></div>
+    <div class="card"><div class="it">aprile</div><div class="compare"><span class="lang">PT</span> abril</div></div>
+    <div class="card danger">
+      <div class="it">maggio</div>
+      <div class="compare"><span class="wrong">maio</span> (PT) ≠ maggio</div>
+      <div class="flag">⚠ já saiu "maio" (Sessão 25)</div>
+    </div>
+    <div class="card"><div class="it">giugno</div><div class="compare"><span class="lang">PT</span> junho</div></div>
+    <div class="card"><div class="it">luglio</div><div class="compare"><span class="lang">PT</span> julho</div></div>
+    <div class="card danger">
+      <div class="it">agosto</div>
+      <div class="compare">igual em IT/PT/ES —<br>mas foi <b>esquecido</b> na lista</div>
+      <div class="flag">⚠ pulado inteiro (hoje)</div>
+    </div>
+    <div class="card"><div class="it">settembre</div><div class="compare"><span class="lang">PT</span> setembro</div></div>
+    <div class="card"><div class="it">ottobre</div><div class="compare"><span class="lang">PT</span> outubro</div></div>
+    <div class="card"><div class="it">novembre</div><div class="compare"><span class="lang">PT</span> novembro</div></div>
+    <div class="card danger">
+      <div class="it">dicembre</div>
+      <div class="compare"><span class="wrong">diciembre</span> (ES) ≠ dicembre</div>
+      <div class="flag">⚠ 3ª vez: "diciembre" (S25, hoje)</div>
+    </div>
+  </div>
+
+  <div class="note">
+    <b>Truque pra fixar os 3 vermelhos:</b><br>
+    • <b>maggio</b> tem dois "g" (mag-GI-o) — bem diferente do "maio" curto do português. Pense em "magia" (mesma raiz de "mag").<br>
+    • <b>agosto</b> é o único mês idêntico nas três línguas — por ser "fácil demais" ele costuma ser o que a memória pula. Conte nos dedos: depois de luglio vem SEMPRE agosto antes de settembre.<br>
+    • <b>dicembre</b> não tem o "i" extra do espanhol. Pense em "dez" (decimal, décimo) → "dicembre" começa com "dice-", igual "dieci" (10) e "dodici" (12) — mesma raiz numérica de "dez/doze", sem o "i" do espanhol.
+  </div>
+</body>
+</html>

@@ -27,6 +27,32 @@ R7 DEFAULT    else → LEARN new (warm up with any 1–7 due cards first)
 - Consolidation floor `C`: **0.67** (caps review debt at one-third)
 - Big-due trigger: **8** (≈ one review sitting)
 
+**Current state (end of Session 30, 2026-08-10):**
+- Due / overdue: **47 ainda vencidos** (lote de 06/08 e 08/08, não tocado) +
+  **16 vencendo em 2026-08-11** (8 saíram Again hoje + 8 já agendados).
+- Erro de processo descoberto e corrigido nesta sessão: `review-queue.md`
+  lista o baralho inteiro ordenado por vencimento, não só os cartões
+  realmente devidos. Achei que eram 19+6=25 vencidos e revisei só esse
+  subconjunto (focado em pontos fracos); só ao fechar a sessão percebi que
+  47 cartões do lote 06/08–09/08 nunca foram tocados. **Lição de processo:**
+  antes de anunciar "fila zerada", contar overdue com base na data de
+  vencimento de CADA linha do arquivo, não assumir que a lista já vem
+  filtrada.
+- Open weak spots: **0 formais** — os 5 da Sessão 29 foram resolvidos (chi/
+  che, non c'è/non è, plural -cia/-gia, UN/UNO) ou fechados por remoção de
+  escopo (posição de adjetivo — cards 096/096b/097 removidos a pedido do
+  learner). 8 erros novos observados (2 vazamentos de espanhol, -ARE/-ERE
+  confundido em loro, VOLERE/VENIRE com 1 erro cada) — ainda não formalizados
+  como weak spots, monitorar na próxima revisão.
+- Consolidação recalculada com varredura completa do baralho (111 cartões):
+  **C = 54/111 = 48,6%** — bem abaixo do 86,8% que estava registrado, que
+  refletia o mesmo erro de contagem (cartões vencidos sendo contados como
+  consolidados por engano).
+- Precisão da última revisão: **58,3% (14/24)**, sobre os cartões
+  efetivamente revisados.
+- Próxima sessão: **R2 OVERDUE / R5 LOAD → REVIEW**, com folga grande. Bater
+  o backlog de 47 cartões antes de qualquer conteúdo novo ou quiz da Stage 02.
+
 **Current state (end of Session 21):**
 - Due / overdue: **0 due today, 0 overdue**. Next due 2026-07-31 (34 cards — 25 carried + 9 new).
 - Open weak spots: **0** — all 4 flagged in Session 20 resolved via dedicated reteach this session (uo/ie diphthong in volere/venire, dovere noi/voi, a-vs-da for destino=pessoa, question-reading care).

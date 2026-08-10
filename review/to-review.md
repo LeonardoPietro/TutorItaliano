@@ -20,6 +20,16 @@ Open rows here drive Consolidation Gate rule R3 (see `review/CONSOLIDATION-GATE.
 
 ---
 
+## Abertos na Sessão 29 (2026-08-05)
+
+| concept | stage | flagged on | reason | status |
+|---------|-------|-----------|--------|--------|
+| Confusão "chi" (quem) vs "che" (que/qual) | 02-present-tense-basics | 2026-08-05 | Card 111: respondeu "Chi ore sono" em vez de "Che ore sono" — trocou a palavra interrogativa por outra já ensinada com significado diferente | resolvido Sessão 30 (2026-08-10): "CHE ORE SONO" correto e sem apoio |
+| UN vs UNO — regra de vogal invertida | 00-foundations | 2026-08-05 | Card 040: disse que UNO é usado antes de vogal (errado — é UN, sem apóstrofo). Acertou a conexão UNO=regra do LO sozinho, mas inverteu a regra da vogal | resolvido Sessão 30 (2026-08-10): UN como padrão (incl. vogal) correto sem inverter; adicionou "gl" incorretamente à lista de gatilhos de UNO, corrigido — nota Hard, não Again, considerado resolvido quanto à inversão original |
+| Os 3 grupos de posição de adjetivo (sempre-antes / sempre-depois / muda-sentido) misturados | 02-present-tense-basics | 2026-08-05 | Cards 096 e 096b: trouxe "diverso" (grupo sempre-depois) e "vecchio"/"bello" (não pertencem ao grupo muda-sentido) pra dentro das respostas erradas. Reteach dedicado feito na Sessão 29; na Sessão 30 (2026-08-10), 096 voltou a errar (só 4/10 adjetivos) mesmo após contraste PT/IT. Learner pediu explicitamente pra excluir cards 096, 096b e 097 do escopo — cartões removidos do deck (mantido só 061b/bello). Não é um gap fechado, é escopo reduzido por decisão do learner | fechado — escopo removido (Sessão 30) |
+| "non c'è" usado com sujeito definido (deveria ser "non è") | c-e-ci-sono | 2026-08-05 | Card 113: mesmo erro já visto antes no histórico ("le chiavi non ci sono" → "le chiavi non sono") reapareceu de forma idêntica com "lo zaino" — segunda ocorrência do mesmo padrão | resolvido Sessão 30 (2026-08-10): "non è" correto e sem apoio |
+| Plural -cia/-gia (regra vogal/consoante antes da terminação) | plurais | 2026-08-05 | Card 114: primeira exposição real (cartão criado ontem), resposta "ce/ge" não corresponde à regra (vogal-antes vs consoante-antes). Ainda não teve reteach dedicado | resolvido Sessão 30 (2026-08-10): regra correta e sem apoio de primeira |
+
 ## Reabertos na auditoria de 2026-08-04 (Sessão 28)
 
 Os dois pontos abaixo tinham sido dados como resolvidos na Sessão 27 com base em
@@ -30,4 +40,4 @@ com o estado real.
 |---------|-------|-----------|--------|--------|
 | Meses em italiano — vazamento de português/espanhol | 02-present-tense-basics | 2026-08-04 | S25: "maio" (pt), "diciembre" (es), "ottobro". S27: a resposta registrada começa com **"janeiro"** (pt) e mesmo assim recebeu "Easy — sem erros português". Nota real: Hard (11/12). Card 110 reagendado para 2026-08-05 | open |
 | Dias da semana — acentos (lunedì…venerdì) | 02-present-tense-basics | 2026-08-04 | S25: acentos faltando. S26: corrigido só na 2ª tentativa. S27: resposta registrada **sem nenhum acento** recebeu "Easy — acentos todos corretos". Nota real: Hard. Card 109 reagendado para 2026-08-08 | open |
-| Adjetivos pré-nominais — lista completa + formas de "bello" | 02-present-tense-basics | 2026-08-04 | Card 096 ficou incompleto em 3 revisões seguidas (S22, S24, S25) e foi pulado na S27 a pedido. Além disso o card 061 ensinava a forma de "bello" de maneira confusa — corrigido e desdobrado no card **061b** (bel/bello/bell'/bei/begli), que ainda não foi ensinado | open |
+| Adjetivos pré-nominais — lista completa + formas de "bello" | 02-present-tense-basics | 2026-08-04 | Card 096 ficou incompleto em 3 revisões seguidas (S22, S24, S25) e foi pulado na S27 a pedido. Além disso o card 061 ensinava a forma de "bello" de maneira confusa — corrigido e desdobrado no card **061b** (bel/bello/bell'/bei/begli), que ainda não foi ensinado | superseded — ver "Os 3 grupos de posição de adjetivo" (Sessão 29, mesma data), que engloba e substitui este item |
