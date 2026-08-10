@@ -1,8 +1,8 @@
-# 🌳 Italian Skill Tree — Sessão 31 (2026-08-10, fila zerada)
+# 🌳 Italian Skill Tree — Sessão 32 (2026-08-10, Stage 03 aberta)
 
-**Domínio geral: 29/99 tópicos ensinados** (Stages 00–02 completas; Stage 03 aberta, 0/10)
-**Consolidação: 90,1%** (100/111 cartões com reps≥2)
-**Precisão da última revisão: 91,5%** (Sessão 31 — 43/47, revisão completa dos vencidos)
+**Domínio geral: 30/99 tópicos ensinados** (Stages 00–02 completas; Stage 03 em progresso, 1/10)
+**Consolidação: 85,5%** (100/117 cartões com reps≥2 — caiu de 90,1% pela diluição de 6 cartões novos)
+**Precisão da última revisão: 91,5%** (Sessão 31 — 43/47; Sessão 32 foi conteúdo novo, sem revisão formal)
 
 > **Atualização Sessão 31:** os 47 cartões atrasados foram revisados; "dias
 > da semana" (109) fechado como resolvido. Cards 096/096b/097 (adjetivos
@@ -78,32 +78,26 @@
 
 ---
 
-## 🟡 IN PROGRESS (1 stage, 0/10 topics)
+## 🟡 IN PROGRESS (1 stage, 1/10 topics)
 
-### Stage 03 — Travel Survival (0% mastery, suspended)
+### Stage 03 — Travel Survival (10% mastery)
+
+| Topic | Cards | Status | Notes |
+|-------|-------|--------|-------|
+| Restaurant & food vocabulary; ordering phrases | 115–120 | ✅ | vorrei/per me/prendo; preferências do garçom (naturale/frizzante, al sangue/media cottura/ben cotta, gusto); mesa/reserva (avete un tavolo, avete prenotato, a nome di); cardápio/ingredientes (cosa avete come X vs cosa c'è dentro X); no vs non; panna cotta (CONSOLIDATION FLAG: avete/hai e come/di erraram 2x cada, ver to-review.md) |
 
 Topics awaiting first teach:
-- ⬜ Essential survival phrases (ordering, directions, hotel, taxi)
-- ⬜ Common transactional questions & responses
-- ⬜ Numbers as prices, times, room numbers (recap with context)
-- ⬜ Formal politeness (Lei vs tu in service contexts)
-- ⬜ Cognates & false friends (hotel, baggage, autobus vs bus)
-- ⬜ Geographic language (north/south, left/right, distances, maps)
-- ⬜ Weather & seasons vocabulary
-- ⬜ Likes/dislikes structure (Mi piace... / Non mi piace...)
-- ⬜ Past tense for travel anecdotes (integrated review)
-- ⬜ Checkpoint: conversational mini-scenarios
+- ⬜ Numbers 20–1000+; prices and quantities
+- ⬜ Directions vocabulary + informal imperative
+- ⬜ Transportation vocabulary (train, bus, taxi, airport)
+- ⬜ Shopping phrases (sizes, colors, "how much does it cost")
+- ⬜ Scheduling/appointments in context
+- ⬜ Polite requests for help (potrebbe, per favore, scusi)
+- ⬜ Hotel check-in vocabulary and phrases
+- ⬜ Articulated prepositions in real context (andare al, alla, dal...)
+- ⬜ Common travel idioms/fixed expressions
 
-**GATING STATUS:** Stage 03 advancement **SUSPENDED**.
-
-**Reason:** Session 25 review accuracy 66.7% (20/30 Good) is **below 80% consolidation floor**. While overall deck consolidation remains 88.4%, the precision dip + repeated Hard grades on core conjugations (VOLERE, months, days) signal foundational instability:
-
-- **VOLERE**: 3rd review still "vuo" error (lui/lei) — ditongo rule not yet automatic
-- **Months**: Critical failure mixing PT/IT/ES (confused dopo 12-month teach!)
-- **Days**: Acentuação patterns inconsistent
-- **BANGS adjectives**: Memorization gaps on expected list
-
-**Recommendation:** 1–2 focused REVIEW sessions on these 3 areas (VOLERE, months, days/BANGS) before Stage 03 launch. Let accuracy climb back to ≥80% before new material.
+**GATING STATUS:** Stage 03 advancement **ATIVO** — desbloqueado desde a Sessão 31 (consolidação e acurácia acima dos limiares). Sessão 32 abriu o primeiro tópico.
 
 ---
 
@@ -124,19 +118,17 @@ Topics awaiting first teach:
 
 | Metric | Current | Previous | Δ | Assessment |
 |--------|---------|----------|---|------------|
-| Cards consolidated (reps≥2, not overdue) | 100/111 (90.1%) | 54/111 (48.6%) | ↗ +41.5pp | Salto por catch-up, não por regressão anterior |
-| Last review accuracy | 91.5% (43/47) | 58.3% (14/24) | ↗ +33.2pp | Recuperação forte após revisão completa |
-| Due tomorrow (2026-08-11) | 17 | — | — | Inclui VOLERE(090)/VENIRE(092), meses(110), perchè(059) — reteste dos pontos observados na S30 |
-| Streak | 2 dias | 1 dia | ↗ | Segunda sessão consecutiva no mesmo dia (08-10) |
-| Sessions completed | 31 | 30 | ↗ | |
+| Cards consolidated (reps≥2, not overdue) | 100/117 (85.5%) | 100/111 (90.1%) | ↘ -4.6pp | Diluição por 6 cartões novos (reps=0), não regressão |
+| Last review accuracy | 91.5% (43/47) | 91.5% (43/47) | — | Sessão 32 não teve revisão formal (conteúdo novo) |
+| Due tomorrow (2026-08-11) | 23 | 17 | ↗ +6 | 17 do lote anterior + 6 novos (115–120) |
+| Streak | 2 dias | 2 dias | — | Terceira sessão consecutiva no mesmo dia (08-10) |
+| Sessions completed | 32 | 31 | ↗ | |
 
-**Consolidation Health:** Forte recuperação (48,6%→90,1%) — mas o salto reflete
-cartões que estavam represados por causa do bug de contagem, não novo
-aprendizado. Pontos ainda a confirmar amanhã (2026-08-11): vazamento de
-espanhol (veinte/perchè), -ARE vs -ARE/-ONO em loro (cantare), VOLERE(voi)/
-VENIRE(tu).
+**Consolidation Health:** Estável. A queda de 90,1%→85,5% é só o efeito
+matemático de 6 cartões novos com reps=0 entrando no denominador — nenhum
+cartão antigo regrediu. Dois pontos fracos novos abertos (avete/hai,
+come/di), ambos ligados ao vocabulário de restaurante recém-ensinado.
 
-**Path forward:** Gate deve indicar LEARN (R7) na próxima sessão — sem
-vencidos, weak spots abertos ou déficit de acurácia/consolidação — mas
-abrir com o warm-up dos 17 cartões de amanhã antes de conteúdo novo da
-Stage 03.
+**Path forward:** Gate deve indicar REVIEW (R2/R6) na próxima sessão —
+23 cartões vencem 2026-08-11. Reforçar avete/hai e come/di nessa revisão
+antes de seguir para o próximo tópico da Stage 03 (números 20+/preços).

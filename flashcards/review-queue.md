@@ -1,18 +1,20 @@
 # Review Queue
 
-Ordenada por vencimento (crescente). Regenerada em 2026-08-10 (Sessão 31 —
-os 47 cartões atrasados do lote 06/08–08/08 foram revisados integralmente
-nesta sessão; fila diária zerada pela primeira vez desde a falha de
-contagem descoberta na Sessão 30).
+Ordenada por vencimento (crescente). Regenerada em 2026-08-10 (Sessão 32 —
+6 cartões novos de restaurante/pedidos adicionados, todos due 2026-08-11).
 
-Total de cartões no deck: 111. **Vencidos hoje (2026-08-10): 0.** Próximo
-lote vence amanhã, 2026-08-11: 17 cartões (inclui os que saíram "Again"
-hoje: 107; e os cartões novos ainda não revisados desta vez, reps=0 ou
-baixo: 014, 029, 040, 059, 061b, 090, 092, 110, 113, 114, além de
-005/008/022/081/083/086 que só coincidem na data).
+Total de cartões no deck: 117. **Vencidos hoje (2026-08-10): 0.** Próximo
+lote vence amanhã, 2026-08-11: 23 cartões (os 17 já previstos + 6 novos:
+115, 116, 117, 118, 119, 120).
 
 | id | front | due | interval(d) |
 |----|-------|-----|-------------|
+| 115 | Como pergunta o que o restaurante tem de entrada/sobremesa? | 2026-08-11 | 0 |
+| 116 | Como pergunta o que tem DENTRO de um prato específico? | 2026-08-11 | 0 |
+| 117 | Diferença entre "no" e "non"? | 2026-08-11 | 0 |
+| 118 | Como pergunta o ponto da carne e quais são as 3 opções? | 2026-08-11 | 0 |
+| 119 | Como pede mesa e responde se reservou ou não? | 2026-08-11 | 0 |
+| 120 | Grafia de "panna cotta" — quantos T? | 2026-08-11 | 0 |
 | 005 | O que muda quando uma consoante dobra (ex: fatto vs. fato)? | 2026-08-11 | 7 |
 | 008 | Quando a força cai na última sílaba (tronca/oxítona), como você sabe? | 2026-08-11 | 12 |
 | 014 | Como se diz 20 em italiano? | 2026-08-11 | 0 |

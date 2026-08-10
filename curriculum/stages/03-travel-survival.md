@@ -1,7 +1,7 @@
 # Stage 03 — Travel Survival
 
 **Theme:** Food, directions, shopping, time/dates, transport.
-**Status:** in_progress (0/10 — estágio corrente, conteúdo ainda não aberto)
+**Status:** in_progress (1/10 — Sessão 32, 2026-08-10)
 
 ## Objectives
 This is the stage most directly tied to the learner's stated goal
@@ -9,7 +9,7 @@ This is the stage most directly tied to the learner's stated goal
 situations a traveler hits.
 
 ## Topic checklist
-- [ ] Restaurant & food vocabulary; ordering phrases
+- [x] Restaurant & food vocabulary; ordering phrases (Sessão 32, 2026-08-10) — vorrei/per me/prendo, preferências do garçom (água/ponto da carne/sabor), mesa/reserva, cardápio/ingredientes (avete+come vs. c'è), conta. Cartões 115–120.
 - [ ] Numbers 20–1000+; prices and quantities
 - [ ] Directions vocabulary + informal imperative for giving/following directions
 - [ ] Transportation vocabulary (train, bus, taxi, airport)

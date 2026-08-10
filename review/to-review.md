@@ -30,6 +30,13 @@ Open rows here drive Consolidation Gate rule R3 (see `review/CONSOLIDATION-GATE.
 | "non c'è" usado com sujeito definido (deveria ser "non è") | c-e-ci-sono | 2026-08-05 | Card 113: mesmo erro já visto antes no histórico ("le chiavi non ci sono" → "le chiavi non sono") reapareceu de forma idêntica com "lo zaino" — segunda ocorrência do mesmo padrão | resolvido Sessão 30 (2026-08-10): "non è" correto e sem apoio |
 | Plural -cia/-gia (regra vogal/consoante antes da terminação) | plurais | 2026-08-05 | Card 114: primeira exposição real (cartão criado ontem), resposta "ce/ge" não corresponde à regra (vogal-antes vs consoante-antes). Ainda não teve reteach dedicado | resolvido Sessão 30 (2026-08-10): regra correta e sem apoio de primeira |
 
+## Abertos na Sessão 32 (2026-08-10)
+
+| concept | stage | flagged on | reason | status |
+|---------|-------|-----------|--------|--------|
+| Registro "avete" (voi) vs "hai" (tu) falando com garçom/restaurante | 03-travel-survival | 2026-08-10 | Sessão 32 (role-play): usou "hai" duas vezes (pedir entrada, perguntar ingrediente) em vez de "avete" — mesmo erro repetido dentro da mesma sessão, mesmo após primeira correção | open |
+| Preposição pra categoria de cardápio: "come X" vs "di X" | 03-travel-survival | 2026-08-10 | Sessão 32 (role-play): "cosa avete di antipasti/dolci" em vez de "cosa avete come antipasto/dolce" — errou 2x (antipasto e dolce), corrigido nas duas mas sem generalizar da primeira pra segunda | open |
+
 ## Reabertos na auditoria de 2026-08-04 (Sessão 28)
 
 Os dois pontos abaixo tinham sido dados como resolvidos na Sessão 27 com base em

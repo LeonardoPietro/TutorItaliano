@@ -1,8 +1,8 @@
 # 📊 Italian Progress Dashboard
 
 **Learner started:** 2026-07-21 · **Goal:** Travel-conversational Italian · **Budget:** 3–5 hrs/week
-**Sessões:** 31 · **Minutos de estudo:** 985 · **Streak:** 2 dias
-**Última atualização:** 2026-08-10 (Sessão 31 — revisão, fila zerada)
+**Sessões:** 32 · **Minutos de estudo:** 1030 · **Streak:** 2 dias
+**Última atualização:** 2026-08-10 (Sessão 32 — Stage 03 aberta, restaurante/pedidos)
 
 ## Overall roadmap
 
@@ -11,7 +11,7 @@
 | 00 | Foundations | ✅ complete | [████████████████████] 100% | 12/12 |
 | 01 | Prepositions | ✅ complete | [████████████████████] 100% | 8/8 |
 | 02 | Present-Tense Basics | ✅ complete* | [████████████████████] 100% | 9/9 |
-| 03 | Travel Survival | 🟡 in progress | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/10 |
+| 03 | Travel Survival | 🟡 in progress | [██░░░░░░░░░░░░░░░░░░] 10% | 1/10 |
 | 04 | Past I — Passato Prossimo | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/8 |
 | 05 | Past II — Imperfetto & Description | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/8 |
 | 06 | Pronouns & Connected Speech | ⬜ not started | [░░░░░░░░░░░░░░░░░░░░] 0% | 0/8 |
@@ -25,12 +25,11 @@
 `assessments/PENDENTE-stage-02.md`.
 
 ## Flashcards — deck principal
-Total: **111** (096, 096b, 097 removidos a pedido do learner — Sessão 30).
-**Vencidos hoje (2026-08-10): 0** — os 47 cartões atrasados foram todos revisados na Sessão 31.
-**Consolidação:** 100/111 firmes (**90,1%**) — salto forte em relação aos 48,6% da Sessão 30,
-porque a maioria dos 47 cartões vencidos já tinha reps≥2 e só estava excluída da métrica por
-estar atrasada.
-**Precisão da última revisão:** **91,5%** (Sessão 31 — 43/47 corretas de primeira)
+Total: **117** (096, 096b, 097 removidos — Sessão 30; 115–120 restaurante/pedidos adicionados — Sessão 32).
+**Vencidos hoje (2026-08-10): 0.** Próximo lote (2026-08-11): 23 cartões.
+**Consolidação:** 100/117 firmes (**85,5%**) — caiu de 90,1% pela diluição do denominador
+(6 cartões novos com reps=0), não por regressão de cartões já ensinados.
+**Precisão da última revisão:** **91,5%** (Sessão 31 — 43/47 corretas de primeira; Sessão 32 não teve revisão, só conteúdo novo)
 
 ## Flashcards — deck de viagem (paralelo)
 Total: **50** · **Todos atrasados desde 2026-07-31** (4 dias)
@@ -61,6 +60,12 @@ vencem em 2026-08-11):
 Resolvido na Sessão 31:
 - ✅ **Dias da semana — acentos** (card 109) — os 7 acentos corretos sem
   apoio, weak spot formal fechado.
+
+Abertos na Sessão 32 (Stage 03, restaurante):
+- 🔴 **avete/hai** — registro voi vs tu falando com garçom, errou 2x na
+  mesma sessão.
+- 🔴 **come/di** — preposição de categoria de cardápio ("come antipasto"
+  vs "di antipasti"), errou 2x na mesma sessão.
 
 ## Notes
 
@@ -135,3 +140,16 @@ vencidos, sem weak spots abertos, acurácia e consolidação bem acima dos
 limiares — mas com **warm-up dos 17 cartões que vencem em 2026-08-11**
 antes de qualquer conteúdo novo (interleaving). Boa hora para retomar
 Stage 03 (Travel Survival, 0/10) depois do warm-up.
+
+**Sessão 32 (2026-08-10, mesmo dia) — Stage 03 aberta: restaurante/pedidos.**
+Gate → LEARN (R7 DEFAULT, sem vencidos/pontos fracos). Ensinado: pedir
+(vorrei/per me/prendo), responder preferências do garçom (água/ponto da
+carne/sabor), mesa/reserva, perguntar cardápio/ingredientes (avete+come vs.
+c'è), pedir a conta. Prática via role-play estendido, 2 ciclos completos
+guiados. 8 erros pontuais corrigidos ao vivo; 2 recorrentes (avete/hai,
+come/di) abertos como pontos fracos novos. 6 cartões novos (115–120, due
+2026-08-11). Stage 03 agora **1/10 (10%)**.
+
+**Próxima sessão:** 23 cartões vencem 2026-08-11 (17 do lote anterior + 6
+novos) — Gate deve indicar REVIEW (R2 OVERDUE ou R6 BIG DUE). Reforçar
+avete/hai e come/di nessa revisão.
