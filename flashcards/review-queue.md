@@ -1,69 +1,43 @@
 # Review Queue
 
-Ordenada por vencimento (crescente). Regenerada em 2026-08-10 (Sessão 32 —
-6 cartões novos de restaurante/pedidos adicionados, todos due 2026-08-11).
+Ordenada por vencimento (crescente). Regenerada em 2026-08-17 (Sessão 33 —
+30 cartões revisados do backlog vencido: bloco completo de 11/08 (23 cartões)
++ 7 do bloco de 12/08; 5 cartões de 12/08 ficaram pendentes: 067, 074, 082,
+089, 111).
 
-Total de cartões no deck: 117. **Vencidos hoje (2026-08-10): 0.** Próximo
-lote vence amanhã, 2026-08-11: 23 cartões (os 17 já previstos + 6 novos:
-115, 116, 117, 118, 119, 120).
+Total de cartões no deck: 117. **Vencidos hoje (2026-08-17): 5** (sobra do
+bloco 12/08, não revisados). **Vencem hoje também: 4** (058, 098, 104, 109 —
+ainda não chegou a vez deles na sessão). Amanhã, 2026-08-18: 17 cartões
+(inclui os 15 revisados hoje que caíram em Again/Hard com intervalo curto).
 
 | id | front | due | interval(d) |
 |----|-------|-----|-------------|
-| 115 | Como pergunta o que o restaurante tem de entrada/sobremesa? | 2026-08-11 | 0 |
-| 116 | Como pergunta o que tem DENTRO de um prato específico? | 2026-08-11 | 0 |
-| 117 | Diferença entre "no" e "non"? | 2026-08-11 | 0 |
-| 118 | Como pergunta o ponto da carne e quais são as 3 opções? | 2026-08-11 | 0 |
-| 119 | Como pede mesa e responde se reservou ou não? | 2026-08-11 | 0 |
-| 120 | Grafia de "panna cotta" — quantos T? | 2026-08-11 | 0 |
-| 005 | O que muda quando uma consoante dobra (ex: fatto vs. fato)? | 2026-08-11 | 7 |
-| 008 | Quando a força cai na última sílaba (tronca/oxítona), como você sabe? | 2026-08-11 | 12 |
-| 014 | Como se diz 20 em italiano? | 2026-08-11 | 0 |
-| 022 | "La mano" é exceção a que regra? | 2026-08-11 | 12 |
-| 029 | Por que CANTARE para "io" é "canto" e nao "cantono"? | 2026-08-11 | 0 |
-| 040 | Artigo indefinido masculino – quando usar UN vs UNO? | 2026-08-11 | 1 |
-| 059 | Como se diz "por que / porque" em italiano? | 2026-08-11 | 0 |
-| 061b | Adjetivo "bello" ANTES do substantivo – que formas assume? | 2026-08-11 | 0 |
-| 081 | Quais sao as terminacoes de -ERE pra io, tu, lui/lei, noi, voi, loro? | 2026-08-11 | 9 |
-| 083 | Em "leggiamo", o G soa forte ou suave, e por que? | 2026-08-11 | 9 |
-| 086 | Existe regra fixa pra saber se um verbo -IRE leva -isc- ou nao? | 2026-08-11 | 9 |
-| 090 | Conjugue VOLERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-11 | 0 |
-| 092 | Conjugue VENIRE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-11 | 0 |
-| 107 | Como pergunta "Onde voce mora?" em italiano? | 2026-08-11 | 0 |
-| 110 | Diga os 12 meses em italiano | 2026-08-11 | 0 |
-| 113 | "A mochila nao esta aqui" – usa "non c'è" ou "non è"? | 2026-08-11 | 1 |
-| 114 | Plural de palavras em -cia/-gia: quando o "i" fica e quando some? | 2026-08-11 | 1 |
-| 016 | Quando trocar de "buongiorno" pra "buonasera"? | 2026-08-12 | 7 |
-| 019 | "Prego" significa só "de nada"? | 2026-08-12 | 13 |
-| 036 | Artigo definido feminino singular – regra padrao e excecao? | 2026-08-12 | 9 |
-| 050 | Conjugue AVERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-12 | 9 |
-| 061 | Adjetivo "bello" – quais formas DEPOIS do substantivo (ou com essere)? | 2026-08-12 | 9 |
-| 065 | Preposicao "a" indica o que? Exemplo? | 2026-08-12 | 9 |
-| 066 | Preposicao "di" indica o que? Exemplo? | 2026-08-12 | 9 |
 | 067 | Preposicao "da" indica o que? Exemplo? | 2026-08-12 | 9 |
 | 074 | Regra de quando a consoante do artigo dobra ao juntar com "a"? | 2026-08-12 | 9 |
 | 082 | Quais sao as pessoas com MESMA terminacao nas duas familias (-ARE e -ERE)? | 2026-08-12 | 7 |
 | 089 | Conjugue POTERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-12 | 9 |
 | 111 | Como pergunta "Que horas sao?" em italiano? | 2026-08-12 | 2 |
-| 026 | Quais sao as terminacoes de -ARE pra io, tu, lui/lei, noi, voi, loro? | 2026-08-13 | 11 |
-| 044 | Quais sao os 7 pronomes pessoais do italiano? | 2026-08-13 | 11 |
-| 102 | Como se nega um verbo em italiano (ex: Io parlo)? | 2026-08-13 | 3 |
-| 103 | Complete: "Io non ho _____ da fare" | 2026-08-13 | 3 |
-| 105 | Como se faz uma pergunta sim/nao em italiano? | 2026-08-13 | 3 |
-| 106 | Diferenca principal entre Yes/No questions e Wh-questions em italiano? | 2026-08-13 | 3 |
-| 108 | Complete: "_____ conosci a Roma?" | 2026-08-13 | 3 |
-| 009 | O que é uma palavra sdrucciola (esdrúxula) em italiano e tem sinalização escrita? | 2026-08-14 | 15 |
-| 017 | Quando se usa "buonanotte"? | 2026-08-14 | 15 |
-| 021 | Qual a estratégia prática pra aprender o gênero de palavras em -e? | 2026-08-14 | 15 |
-| 003 | Como soam GLI e GN em italiano? | 2026-08-15 | 11 |
-| 045 | Por que "loro" nao tem versao feminina separada? | 2026-08-15 | 5 |
-| 112 | Como diz "Sao 3 horas da tarde" em italiano? | 2026-08-15 | 5 |
-| 004 | Como soa SC antes de E/I vs. antes de A/O/U? | 2026-08-16 | 14 |
-| 006 | O R do italiano tem versão gutural como o do português (carro)? | 2026-08-16 | 12 |
 | 058 | Como se diz "como" em italiano? | 2026-08-17 | 7 |
 | 098 | Quais sao as 4 formas do possessivo "meu" (mio)? | 2026-08-17 | 7 |
 | 104 | Como se nega "Vedo una persona" dizendo que nao ve NINGUEM? | 2026-08-17 | 7 |
 | 109 | Diga os dias da semana em italiano (segunda a domingo) | 2026-08-17 | 7 |
 | 007 | Padrão mais comum de força de sílaba no italiano (piana/paroxítona) – tem acento escrito? | 2026-08-18 | 14 |
+| 014 | Como se diz 20 em italiano? | 2026-08-18 | 0 |
+| 029 | Por que CANTARE para "io" é "canto" e nao "cantono"? | 2026-08-18 | 1 |
+| 059 | Como se diz "por que / porque" em italiano? | 2026-08-18 | 1 |
+| 061b | Adjetivo "bello" ANTES do substantivo – que formas assume? | 2026-08-18 | 0 |
+| 090 | Conjugue VOLERE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-18 | 1 |
+| 092 | Conjugue VENIRE pra: io, tu, lui/lei, noi, voi, loro | 2026-08-18 | 1 |
+| 107 | Como pergunta "Onde voce mora?" em italiano? | 2026-08-18 | 1 |
+| 110 | Diga os 12 meses em italiano | 2026-08-18 | 1 |
+| 113 | "A mochila nao esta aqui" – usa "non c'è" ou "non è"? | 2026-08-18 | 0 |
+| 114 | Plural de palavras em -cia/-gia: quando o "i" fica e quando some? | 2026-08-18 | 0 |
+| 115 | Como pergunta o que o restaurante tem de entrada/sobremesa? | 2026-08-18 | 0 |
+| 116 | Como pergunta o que tem DENTRO de um prato específico? | 2026-08-18 | 0 |
+| 117 | Diferença entre "no" e "non"? | 2026-08-18 | 0 |
+| 118 | Como pergunta o ponto da carne e quais são as 3 opções? | 2026-08-18 | 0 |
+| 119 | Como pede mesa e responde se reservou ou não? | 2026-08-18 | 0 |
+| 120 | Grafia de "panna cotta" — quantos T? | 2026-08-18 | 1 |
 | 010 | Par mínimo: diferença entre "ancora" e "àncora"? | 2026-08-19 | 9 |
 | 025 | Processo pra conjugar um verbo -ARE: qual é o primeiro passo? | 2026-08-19 | 17 |
 | 028 | Conjugue MANGIARE pra: tu, voi, loro | 2026-08-19 | 15 |
@@ -75,6 +49,7 @@ lote vence amanhã, 2026-08-11: 23 cartões (os 17 já previstos + 6 novos:
 | 039 | Plural dos artigos LA e L' (feminino)? | 2026-08-19 | 17 |
 | 042 | Artigo indefinido feminino – quando usar UNA vs UN'? | 2026-08-19 | 16 |
 | 100 | Quando o artigo SOME antes do possessivo (excecao)? | 2026-08-19 | 9 |
+| 040 | Artigo indefinido masculino – quando usar UN vs UNO? | 2026-08-20 | 3 |
 | 043 | Por que o masculino tem UNO mas o feminino nao tem equivalente pra S+consoante/Z/GN? | 2026-08-20 | 10 |
 | 093 | Quais sao as 4 formas do tipo -o/-a de adjetivo (ex: alto)? | 2026-08-20 | 10 |
 | 094 | Quais sao as 2 formas do tipo -e de adjetivo (ex: felice, grande)? | 2026-08-20 | 10 |
@@ -115,7 +90,12 @@ lote vence amanhã, 2026-08-11: 23 cartões (os 17 já previstos + 6 novos:
 | 034 | Artigo definido masculino singular antes de S+consoante ou Z? | 2026-08-27 | 17 |
 | 035 | Artigo definido masculino singular antes de vogal ou H? | 2026-08-27 | 17 |
 | 048 | Por que "sono" nao causa confusao entre "io" e "loro"? | 2026-08-27 | 17 |
+| 065 | Preposicao "a" indica o que? Exemplo? | 2026-08-28 | 11 |
 | 012 | Padrão de 11 a 16 em italiano? | 2026-08-29 | 19 |
+| 005 | O que muda quando uma consoante dobra (ex: fatto vs. fato)? | 2026-08-30 | 13 |
+| 016 | Quando trocar de "buongiorno" pra "buonasera"? | 2026-08-30 | 13 |
+| 008 | Quando a força cai na última sílaba (tronca/oxítona), como você sabe? | 2026-08-31 | 14 |
+| 022 | "La mano" é exceção a que regra? | 2026-08-31 | 14 |
 | 054 | Como se diz "o que" em italiano? | 2026-08-31 | 21 |
 | 056 | Como se diz "onde" em italiano? | 2026-08-31 | 21 |
 | 064 | Pronomes depois de preposicao: io e tu viram o que? | 2026-08-31 | 21 |
@@ -124,5 +104,13 @@ lote vence amanhã, 2026-08-11: 23 cartões (os 17 já previstos + 6 novos:
 | 080 | 4 expressoes fixas verbo+preposicao (vado, vengo, parlo, sono)? | 2026-08-31 | 21 |
 | 018 | Diferença de uso entre "ciao" e "arrivederci"? | 2026-09-07 | 39 |
 | 020 | Regra geral de gênero pela terminação do substantivo? | 2026-09-07 | 28 |
+| 036 | Artigo definido feminino singular – regra padrao e excecao? | 2026-09-07 | 21 |
+| 050 | Conjugue AVERE pra: io, tu, lui/lei, noi, voi, loro | 2026-09-07 | 21 |
+| 061 | Adjetivo "bello" – quais formas DEPOIS do substantivo (ou com essere)? | 2026-09-07 | 21 |
+| 066 | Preposicao "di" indica o que? Exemplo? | 2026-09-07 | 21 |
 | 023 | Gênero de "chiave" (chave) e "fiore" (flor)? | 2026-09-08 | 29 |
 | 024 | Gênero de "notte" (noite), "pane" (pão) e "stazione" (estação)? | 2026-09-08 | 29 |
+| 081 | Quais sao as terminacoes de -ERE pra io, tu, lui/lei, noi, voi, loro? | 2026-09-08 | 22 |
+| 083 | Em "leggiamo", o G soa forte ou suave, e por que? | 2026-09-08 | 22 |
+| 086 | Existe regra fixa pra saber se um verbo -IRE leva -isc- ou nao? | 2026-09-08 | 22 |
+| 019 | "Prego" significa só "de nada"? | 2026-09-14 | 28 |

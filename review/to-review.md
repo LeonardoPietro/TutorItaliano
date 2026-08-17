@@ -30,6 +30,14 @@ Open rows here drive Consolidation Gate rule R3 (see `review/CONSOLIDATION-GATE.
 | "non c'è" usado com sujeito definido (deveria ser "non è") | c-e-ci-sono | 2026-08-05 | Card 113: mesmo erro já visto antes no histórico ("le chiavi non ci sono" → "le chiavi non sono") reapareceu de forma idêntica com "lo zaino" — segunda ocorrência do mesmo padrão | resolvido Sessão 30 (2026-08-10): "non è" correto e sem apoio |
 | Plural -cia/-gia (regra vogal/consoante antes da terminação) | plurais | 2026-08-05 | Card 114: primeira exposição real (cartão criado ontem), resposta "ce/ge" não corresponde à regra (vogal-antes vs consoante-antes). Ainda não teve reteach dedicado | resolvido Sessão 30 (2026-08-10): regra correta e sem apoio de primeira |
 
+## Reabertos na Sessão 33 (2026-08-17)
+
+| concept | stage | flagged on | reason | status |
+|---------|-------|-----------|--------|--------|
+| "non c'è" usado com sujeito definido (deveria ser "non è") | c-e-ci-sono | 2026-08-17 | Card 113: tinha sido dado como resolvido na Sessão 30. Voltou a errar de forma idêntica ("non c'è" em vez de "non è" pra "a mochila não está aqui") — segunda regressão no mesmo cartão | open |
+| Plural -cia/-gia (regra vogal/consoante antes da terminação) | plurais | 2026-08-17 | Card 114: tinha sido dado como resolvido na Sessão 30. Voltou a errar, dessa vez invertendo a regra completamente (disse consoante=fica, vogal=some — é o oposto) | open |
+| "Cosa c'è dentro [prato]?" vs "avete/hai" pra perguntar ingrediente de prato específico | 03-travel-survival | 2026-08-17 | Card 116: ainda não foi ensinado corretamente — o próprio tutor errou a explicação nas duas primeiras tentativas do learner (disse pra usar avete/hai, mas o certo é c'è, já que a pergunta é sobre o que EXISTE no prato, não o que o restaurante POSSUI). Precisa de reteach do zero na próxima sessão | open |
+
 ## Abertos na Sessão 32 (2026-08-10)
 
 | concept | stage | flagged on | reason | status |

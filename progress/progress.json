@@ -14,22 +14,22 @@
         "note": "Marcado enabled=true sem evidencia de uso (media/ vazio, nenhum log de criacao). Rebaixado para false na auditoria de 2026-08-04 ate a configuracao ser confirmada."
     },
     "stats": {
-        "sessions": 32,
-        "study_minutes": 1030,
+        "sessions": 33,
+        "study_minutes": 1075,
         "concepts_mastered": 38,
         "flashcards_total": 117,
-        "flashcards_due": 0,
+        "flashcards_due": 9,
         "exercises_solved": 65,
         "quizzes_taken": 3,
         "feynman_attempts": 15,
-        "streak_days": 2,
-        "last_session_date": "2026-08-10"
+        "streak_days": 1,
+        "last_session_date": "2026-08-17"
     },
     "review_tracking": {
-        "last_review_date": "2026-08-10",
-        "last_review_accuracy": 0.915,
-        "cards_consolidated": 100,
-        "consolidation_ratio": 0.855
+        "last_review_date": "2026-08-17",
+        "last_review_accuracy": 0.467,
+        "cards_consolidated": 96,
+        "consolidation_ratio": 0.821
     },
     "stages": [
         {
@@ -132,6 +132,6 @@
     "audit": {
         "last_full_audit": "2026-08-04",
         "report": "review/ERRATA-2026-08-04.md",
-        "notes": "Acuracias das Sessoes 5, 26 e 27 recalculadas (80%, 25%, 60%). last_review_accuracy reflete o valor corrigido da Sessao 27. Sessao 30 (2026-08-10): erro de contagem da fila corrigido no proprio dia (ver review/CONSOLIDATION-GATE.md) — consolidation_ratio caiu de 86.8% (desatualizado/inflado) para 48.6% (real, 54/111), refletindo que 47 cartoes seguem vencidos. Sessao 31 (2026-08-10, mesmo dia): os 47 cartoes vencidos foram revisados integralmente — acuracia 91,5% (43/47 first-try Good/Easy), consolidation_ratio subiu para 90,1% (100/111). Fila diaria zerada. Sessao 32 (2026-08-10, mesmo dia): Gate LEARN (R7) — Stage 03 aberta, 1o topico ensinado (restaurante/pedidos), 6 cartoes novos (115-120, reps=0), consolidation_ratio recalculado para 85,5% (100/117) pela diluicao do denominador; nenhum cartao vencido hoje."
+        "notes": "Acuracias das Sessoes 5, 26 e 27 recalculadas (80%, 25%, 60%). last_review_accuracy reflete o valor corrigido da Sessao 27. Sessao 30 (2026-08-10): erro de contagem da fila corrigido no proprio dia (ver review/CONSOLIDATION-GATE.md) — consolidation_ratio caiu de 86.8% (desatualizado/inflado) para 48.6% (real, 54/111), refletindo que 47 cartoes seguem vencidos. Sessao 31 (2026-08-10, mesmo dia): os 47 cartoes vencidos foram revisados integralmente — acuracia 91,5% (43/47 first-try Good/Easy), consolidation_ratio subiu para 90,1% (100/111). Fila diaria zerada. Sessao 32 (2026-08-10, mesmo dia): Gate LEARN (R7) — Stage 03 aberta, 1o topico ensinado (restaurante/pedidos), 6 cartoes novos (115-120, reps=0), consolidation_ratio recalculado para 85,5% (100/117) pela diluicao do denominador; nenhum cartao vencido hoje. Sessao 33 (2026-08-17): gap de 7 dias sem sessao (streak reiniciado em 1) permitiu acumular 54 cartoes vencidos/devidos; Gate REVIEW (R2). Revisados 30 de 54 (bloco 11/08 completo + parte de 12/08); 5 pendentes de 12/08 (067,074,082,089,111) e 4 do dia (058,098,104,109) ficaram pra proxima sessao. Acuracia baixa nesta leva (46,7%, 14/30 Good/Easy de primeira) por ser majoritariamente backlog antigo com varios cartoes ja historicamente fracos (014,061b,110) e 2 regressoes reais em pontos dados como consolidados (113: non c'è vs non è; 114: regra -cia/-gia invertida) — ambos reabertos em review/to-review.md. Erro de ensino do proprio tutor identificado e corrigido durante a sessao: card 116 (o que tem dentro de um prato) requer C'È, nao AVETE/HAI — tutor ensinou errado nas duas primeiras tentativas do learner, corrigido antes de salvar. consolidation_ratio recalculado para 82,1% (96/117, estimativa pos-sessao)."
     }
 }

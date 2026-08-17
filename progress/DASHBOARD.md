@@ -1,8 +1,8 @@
 # 📊 Italian Progress Dashboard
 
 **Learner started:** 2026-07-21 · **Goal:** Travel-conversational Italian · **Budget:** 3–5 hrs/week
-**Sessões:** 32 · **Minutos de estudo:** 1030 · **Streak:** 2 dias
-**Última atualização:** 2026-08-10 (Sessão 32 — Stage 03 aberta, restaurante/pedidos)
+**Sessões:** 33 · **Minutos de estudo:** 1075 · **Streak:** 1 dia (reiniciado após gap de 7 dias)
+**Última atualização:** 2026-08-17 (Sessão 33 — revisão de backlog, 30/54 vencidos)
 
 ## Overall roadmap
 
@@ -26,10 +26,10 @@
 
 ## Flashcards — deck principal
 Total: **117** (096, 096b, 097 removidos — Sessão 30; 115–120 restaurante/pedidos adicionados — Sessão 32).
-**Vencidos hoje (2026-08-10): 0.** Próximo lote (2026-08-11): 23 cartões.
-**Consolidação:** 100/117 firmes (**85,5%**) — caiu de 90,1% pela diluição do denominador
-(6 cartões novos com reps=0), não por regressão de cartões já ensinados.
-**Precisão da última revisão:** **91,5%** (Sessão 31 — 43/47 corretas de primeira; Sessão 32 não teve revisão, só conteúdo novo)
+**Vencidos hoje (2026-08-17): 9** (5 do bloco 12/08 não alcançados + 4 que venciam hoje). Próximo lote grande (2026-08-18): 17 cartões.
+**Consolidação:** 96/117 firmes (**82,1%**, estimativa pós-Sessão 33) — caiu de 85,5% por
+2 regressões reais (113, 114) e vários cartões antigos voltarem a reps baixos.
+**Precisão da última revisão:** **46,7%** (Sessão 33 — 14/30 corretas de primeira; leva concentrada em backlog antigo)
 
 ## Flashcards — deck de viagem (paralelo)
 Total: **50** · **Todos atrasados desde 2026-07-31** (4 dias)
@@ -61,11 +61,21 @@ Resolvido na Sessão 31:
 - ✅ **Dias da semana — acentos** (card 109) — os 7 acentos corretos sem
   apoio, weak spot formal fechado.
 
-Abertos na Sessão 32 (Stage 03, restaurante):
-- 🔴 **avete/hai** — registro voi vs tu falando com garçom, errou 2x na
-  mesma sessão.
-- 🔴 **come/di** — preposição de categoria de cardápio ("come antipasto"
-  vs "di antipasti"), errou 2x na mesma sessão.
+Abertos na Sessão 32 (Stage 03, restaurante) — progresso na Sessão 33:
+- 🟡 **avete/hai** — registro voi vs tu falando com garçom. Errou 2x de novo
+  (cards 115, 116) mas acertou sozinho em 2 fixações extras (antipasto,
+  insalata) — sinal de progresso, ainda não consolidado.
+- ✅ **come/di** — preposição de categoria de cardápio. Acertou "come" em
+  todas as reaparições da Sessão 33, parece estar consolidando.
+
+Reabertos na Sessão 33 (regressões):
+- 🔴 **"non c'è" vs "non è"** (card 113) — tinha sido dado como resolvido na
+  S30, voltou a errar de forma idêntica.
+- 🔴 **Plural -cia/-gia** (card 114) — tinha sido dado como resolvido na S30,
+  voltou a errar, agora com a regra completamente invertida.
+- 🔴 **Card 116 (o que tem dentro de um prato)** — nunca foi ensinado
+  corretamente: o próprio tutor errou a explicação (disse "avete/hai", o
+  certo é "c'è"). Reteach do zero pendente.
 
 ## Notes
 
@@ -150,6 +160,18 @@ guiados. 8 erros pontuais corrigidos ao vivo; 2 recorrentes (avete/hai,
 come/di) abertos como pontos fracos novos. 6 cartões novos (115–120, due
 2026-08-11). Stage 03 agora **1/10 (10%)**.
 
-**Próxima sessão:** 23 cartões vencem 2026-08-11 (17 do lote anterior + 6
-novos) — Gate deve indicar REVIEW (R2 OVERDUE ou R6 BIG DUE). Reforçar
-avete/hai e come/di nessa revisão.
+**Sessão 33 (2026-08-17) — Revisão de backlog após gap de 7 dias.** Gate →
+REVIEW (R2, 50 vencidos). Revisados 30/54 (bloco 11/08 completo + 7/12 do
+bloco 12/08); ficaram pendentes 067, 074, 082, 089, 111 (resto de 12/08) e
+058, 098, 104, 109 (venciam hoje). Precisão: **46,7% (14/30)** — baixa,
+esperada pra backlog antigo. 2 regressões reais (113, 114) reabertas. Erro
+do próprio tutor identificado e corrigido ao vivo no card 116 (ensinou
+"avete/hai" quando o certo é "c'è") — reaberto pra reteach do zero.
+Consolidação recalculada **85,5%→82,1% (96/117)**. Nenhum conteúdo novo —
+Stage 03 segue em 1/10.
+
+**Próxima sessão:** Gate deve indicar REVIEW (R2 — 9 cartões vencidos: os 5
+pendentes de 12/08 + os 4 que venciam em 17/08; mais 17 cartões vencendo em
+18/08). Prioridade: terminar o backlog de 12/08, revisar 058/098/104/109,
+reteach dedicado do card 116 (c'è vs avete/hai), e reforçar os 2 pontos
+reabertos (113, 114).
